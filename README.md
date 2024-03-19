@@ -12,6 +12,8 @@ Marina Bermúdez Granados - <a href="https://github.com/nara-on">nara-on</a> <br
 <br />
 
 ### Version History
+* 2.2
+    * Comments added
 * 2.1
     * Small corrections
     * More texts added
