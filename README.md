@@ -12,6 +12,10 @@ Marina Bermúdez Granados - <a href="https://github.com/nara-on">nara-on</a> <br
 <br />
 
 ### Version History
+* 3.0
+    * Version 2 of Copiale added
+    * Copiale class added
+    * Cipher Generator class added
 * 2.2
     * Comments added
 * 2.1
