@@ -8,14 +8,26 @@ import os
 class Copiale:
     
     def __init__(self, num_lines):
+        """
+        Initialization of class values
         
+        Inputs: 
+            - num_lines = List of text files with lines (List of strings)
+        
+        """ 
         self.translator = self.createDict()
         self.num_files = num_lines
         self.alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz`^~0123456789.:,!?/\\"%^&-+@#<>){}[]=|_*;($\' '
     
     
     def createDict(self):
+        """
+        Creation of dictionary to translate between the transcription and the font (CopialeV2.ttf)
         
+        Output: 
+            - translator = List of text files with lines (List of strings)
+        
+        """ 
         # Dictionary with default values
         translator = defaultdict(lambda: '')
         
@@ -155,45 +167,52 @@ class Copiale:
         translator[')'] = '$' # Assumed missing points
         
         return translator
-        
-        
+    
+    
     def transcr2font(self, message):
+        """
+        Translate between the transcription and the font
         
+        Inputs: 
+            - message = Text to be translated (string)
+        
+        """
         msg = message.split(" ")
         translation = ""
             
         for c in msg:
             translation += self.translator[c]
         return translation
-            
-            
+    
+    
     def gen_realLines(self, savepath):
         """
-        Generator of syntheticimages from a real-life example
+        Generator of synthetic images from a real-life examples
+        
+        Inputs: 
+            - savepath = Directory where the image will be saved (string)
         
         """
-        
-        image_savepath = savepath + "sint/images/"
-        groundtruth_savepath = savepath + "sint/groundtruth/"
+        image_savepath = savepath + "images/"
+        groundtruth_savepath = savepath + "groundtruth/"
         
         # Generate directories if necessary
         if not os.path.exists(image_savepath):
             os.makedirs(image_savepath)
         if not os.path.exists(groundtruth_savepath):
             os.makedirs(groundtruth_savepath)
-            
+        
         # Read cipher file
         font = ImageFont.truetype("../ciphers/CopialeV2.ttf", size=120)
         
         for i in range(0, self.num_files, 1):
-                
             # Read groundtruth from the real images
             file = "../databases/copiale_real-vs-sint/real/groundtruth/T2_" + str(i).rjust(4, '0') + ".txt"
             
             t2 = open(file, "r", encoding="UTF-8")
             line = self.transcr2font(t2.read())
             t2.close()
-
+            
             # Create background image
             im = Image.new('L', size=(50,50), color=255)
             scratch_draw = ImageDraw.Draw(im)
@@ -209,19 +228,22 @@ class Copiale:
             
             start_position = ((padding[0]) // 2, 0)
             draw.multiline_text(xy=start_position, text=line, fill=255, font=font, spacing=0, align="center")
-
+            
             # Border
             im = ImageOps.invert(im)
             im = ImageOps.expand(im, border=(20, 10, 20, 10), fill="white")
             im.save(image_savepath + "t2_" + str(i).rjust(4, '0') + ".png","PNG")
-                
+            
             f = open(groundtruth_savepath + "t2_" + str(i).rjust(4, '0') + ".txt","w")
             f.write(line)
             f.close()       
 
             
     def print_alphabet(self):
+        """
+        Create images of the Copiale alphabet
         
+        """
         for i,c in enumerate(self.alphabet):
             print(str(i) + ": " + c)
             
@@ -231,7 +253,7 @@ class Copiale:
             # Generate directories if necessary
             if not os.path.exists(savepath):
                 os.makedirs(savepath)
-                
+            
             # Read cipher file
             font = ImageFont.truetype("../ciphers/CopialeV2.ttf", size=120)
             
@@ -250,11 +272,12 @@ class Copiale:
             
             start_position = ((padding[0]) // 2, 0)
             draw.multiline_text(xy=start_position, text=c, fill=255, font=font, spacing=0, align="center")
-
+            
             # Border
             im = ImageOps.invert(im)
             im = ImageOps.expand(im, border=(2, 2, 2, 2), fill="white")
             
+            # Save image
             im.save(savepath + "copialeV2_" + str(i) + ".png","PNG")
             
             

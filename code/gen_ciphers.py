@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 
+import os
 import warnings
 
-import class_copiale as cop
-import class_cipherGenerator as gen
+import classes.class_copiale as cop
+import classes.class_cipherGenerator as gen
+import classes.class_augmentation as aug
 
 warnings.filterwarnings("ignore", category = DeprecationWarning) 
 
@@ -37,9 +39,10 @@ if __name__ == '__main__':
     
     copiale = cop.Copiale(1502)
     generator = gen.CipherGenerator(ttfs, alphabets, texts, lines)
+    augmentation = aug.Augmentation(3)
     
     #generator.gen_randlines("../databases/lines/", 200)
-    #generator.gen_lines("../databases/lines/")
+    generator.gen_lines("../databases/lines/")
     
     generator.gen_texts("../databases/texts/")
     
@@ -47,7 +50,10 @@ if __name__ == '__main__':
         generator.test_lines(ttf, alph, "../databases/trials/lines/")
         generator.test_texts(ttf, "mid_Ozymandias.txt", alph, "../databases/trials/texts/")
     
-    
     copiale.print_alphabet()
-    copiale.gen_realLines("../databases/copiale_real-vs-sint/")
+    copiale.gen_realLines("../databases/copiale_real-vs-sint/sint/")
+    
+    augmentation.augmentator(os.listdir("../databases/copiale_real-vs-sint/sint/images"), 
+                             '../databases/copiale_real-vs-sint/sint/images/',
+                             "../databases/copiale_real-vs-sint/sint/augmentation/")
     

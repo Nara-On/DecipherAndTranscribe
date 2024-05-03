@@ -8,7 +8,16 @@ import os
 class CipherGenerator:
     
     def __init__(self, ttfs, alph, texts, lines):
+        """
+        Initialization of class values
         
+        Inputs: 
+            - ttf = List of the names of the cipher files (List of string)
+            - alph = List of alphabets (List of strings)
+            - texts = List of text files with texts (List of strings)
+            - lines = List of text files with lines (List of strings)
+        
+        """ 
         self.ttfs = ttfs
         self.alphabets = alph
         self.texts = texts
@@ -22,10 +31,15 @@ class CipherGenerator:
     
     def createImage(self, txt, ttf, image_savepath, groundtruth_savepath):
         """
-        Generator of randomized lines
+        Generator of images
         
-        """
+        Inputs: 
+            - txt = Text in the image (string)
+            - ttf = Name of the cipher file (string)
+            - image_savepath = Directory where the image will be saved (string)
+            - groundtruth_savepath = Directory where the gt will be saved (string)
         
+        """ 
         # Read cipher file
         font = ImageFont.truetype("../ciphers/" + ttf, size=120)
         
@@ -56,14 +70,17 @@ class CipherGenerator:
         f = open(groundtruth_savepath,"w")
         f.write(txt)
         f.close()   
-        
-        
+    
+    
     def gen_randlines(self, savepath, num_lines):
         """
-        Generator of randomized lines
+        Generator of images of randomized lines
+        
+        Inputs: 
+            - savepath = Directory where the image will be saved (string)
+            - num_lines = Number of random lines to be generated (int)
         
         """
-        
         for ttf, alph in zip(self.ttfs, self.alphabets):
             print("Generating random lines from " + ttf.split(".")[0].lower() + "...")
             
@@ -90,15 +107,16 @@ class CipherGenerator:
             for index,text in enumerate(pack):
                 self.createImage(text, ttf, image_savepath + ttf.split(".")[0].lower() + "_" + str(index) + ".png", 
                                  groundtruth_savepath + ttf.split(".")[0].lower() + "_"+str(index) + ".txt")
-
     
     
     def gen_lines(self, savepath):
         """
-        Generator of lines from txt files
+        Generator of images of lines from text files
+        
+        Inputs: 
+            - savepath = Directory where the image will be saved (string)
         
         """
-        
         for ttf in self.ttfs:
             print("Generating lines from " + ttf.split(".")[0].lower() + "...")
             
@@ -119,7 +137,7 @@ class CipherGenerator:
                 print("- File " + file_char.split(".")[0].lower())
                 
                 # Read text file
-                l = open("../texts/" + file_char, "r")
+                l = open("../../texts/" + file_char, "r")
                 
                 for txt in l.readlines():
                     self.createImage(txt.strip(), ttf, image_savepath + ttf.split(".")[0].lower() + "_" + str(index) + ".png", 
@@ -130,13 +148,16 @@ class CipherGenerator:
     
     def gen_texts(self, savepath):
         """
-        Generator of text images from txt files
+        Generator of images of texts from text files
+        
+        Inputs: 
+            - savepath = Directory where the image will be saved (string)
         
         """
         for ttf, alph in zip(self.ttfs, self.alphabets):
             print("Generating text from " + ttf.split(".")[0].lower() + "...")
             
-            # Create savepath routes
+            # Create savepath sroutes
             image_savepath = savepath + ttf.split(".")[0].lower() + "/images/"
             groundtruth_savepath = savepath + ttf.split(".")[0].lower() + "/groundtruth/"
             
@@ -153,7 +174,7 @@ class CipherGenerator:
                 print("- File " + file_char.split(".")[0].lower())
                 
                 # Read text file
-                file = open("../texts/" + file_char, "r", encoding="UTF-8")
+                file = open("../../texts/" + file_char, "r", encoding="UTF-8")
                 
                 # Filter characters
                 big_text = ""
@@ -185,23 +206,24 @@ class CipherGenerator:
                             countLine = 0
                             pack.append(justified_text)
                             justified_text = " "
-                            
+                     
+                # Create images
                 for text in pack:
                     self.createImage(text, ttf, image_savepath + ttf.split(".")[0].lower() + "_" + str(index) + ".png", 
                                      groundtruth_savepath + ttf.split(".")[0].lower() + "_" + str(index) + ".txt")
                     index += 1
-        
-        
+    
+    
     def test_lines(self, ttf, text, savepath):
         """
-        Generator of lines from a txt file
+        Test generation of images of lines from a text
         
         Inputs: 
-            - ttfs = Cipher files
-            - text = Text file
-        
+            - ttf = Name of the cipher file (string)
+            - text = Text in the image (string)
+            - savepath = Directory where the image will be saved (string)
+            
         """
-        
         # Generate directories if necessary
         if not os.path.exists(savepath):
             os.makedirs(savepath)
@@ -209,20 +231,25 @@ class CipherGenerator:
         # Create image
         self.createImage(text, ttf, savepath+ ttf.split(".")[0].lower() + ".png", 
                          savepath + ttf.split(".")[0].lower() + ".txt")
-            
-        
+    
+    
     def test_texts(self, ttf, file, alphabet, savepath):
         """
-        Generator of text images from a txt file
+        Test generation of images of texts from a text
+        
+        Inputs: 
+            - ttf = Name of the cipher file (string)
+            - file = Name of text file (string)
+            - alphabet = Accepted values in text (string)
+            - savepath = Directory where the image will be saved (string)
         
         """
-        
         # Generate directories if necessary
         if not os.path.exists(savepath):
             os.makedirs(savepath)
             
         # Read text file
-        file = open("../texts/" + file, "r", encoding="UTF-8")
+        file = open("../../texts/" + file, "r", encoding="UTF-8")
         
         # Filter characters
         big_text = ""
@@ -259,7 +286,8 @@ class CipherGenerator:
         if len(pack) == 0:
             pack.append(justified_text)
         
-        # Copy text into the background image
+        # Create images
         for text in pack:
             self.createImage(text, ttf, savepath+ ttf.split(".")[0].lower() + ".png", 
                              savepath + ttf.split(".")[0].lower() + ".txt")
+
