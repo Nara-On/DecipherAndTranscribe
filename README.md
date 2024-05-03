@@ -12,6 +12,12 @@ Marina Bermúdez Granados - <a href="https://github.com/nara-on">nara-on</a> <br
 <br />
 
 ### Version History
+* 4.2
+    * Configuration of the first training
+* 4.1
+    * Updates to the databases
+* 4.0
+    * Models added
 * 3.0
     * Version 2 of Copiale added
     * Copiale class added
