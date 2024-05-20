@@ -50,7 +50,7 @@
         "batch_size": 12,
         "device": "cuda",
         "grad_clip": null,
-        "max_epochs": 200,
+        "max_epochs": 5000,
         "learning_rate": 1e-4,
         "optimizer": "adamw",
         "save_every": 1,

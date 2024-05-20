@@ -5,8 +5,8 @@
     "wandb_mode": "disabled",
     "wandb_project": "seq2seq",
   "dirs": {
-    "results_dir": "/data3fast/users/mbermudez/tr_01/results",
-    "base_data_dir": "/data3fast/users/mbermudez/tr_01",
+    "results_dir": "/data3fast/users/mbermudez/tr_02/results",
+    "base_data_dir": "/data3fast/users/mbermudez/tr_02",
     "training_file": "gt_training.json",
     "training_root": "",
     "validation_file": "gt_validation.json",

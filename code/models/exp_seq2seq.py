@@ -4,12 +4,10 @@
 from pathlib import Path
 
 from seq_recog.data.base_dataset import BaseVocab, BaseDataset, BaseDataConfig
-#from seq_recog.data.comref_dataset import load_comref_splits
 from seq_recog.experiments.base_experiment import Experiment, ExperimentConfig
 from seq_recog.experiments.configurations import Seq2SeqDirectoryConfig
 from seq_recog.formatters import seq2seq_formatters
 from seq_recog.loggers.base_logger import SimpleLogger
-#from seq_recog.loggers.async_logger import AsyncLogger
 from seq_recog.metrics import text
 from seq_recog.models.rnn_seq2seq import KangSeq2Seq, KangSeq2SeqConfig
 from seq_recog.trainers.base_trainer import BaseTrainer, BaseTrainerConfig
@@ -38,14 +36,7 @@ class Seq2SeqExperiment(Experiment):
         """Initialise all member variables for the class."""
         # Data
         self.vocab = BaseVocab(self.cfg.dirs.vocab_data)
-        """
-        self.train_data, self.valid_data, self.test_data = load_comref_splits(
-            Path(self.cfg.dirs.splits_file),
-            self.vocab,
-            self.cfg.data,
-            True,
-        )
-        """
+
         self.train_data = BaseDataset(
             self.cfg.dirs.training_root,
             self.cfg.dirs.training_file,
@@ -72,9 +63,9 @@ class Seq2SeqExperiment(Experiment):
         self.training_formatter = seq2seq_formatters.GreedyTextDecoder()
         self.valid_formatter = seq2seq_formatters.GreedyTextDecoder()
 
-        # Metrics
-        self.training_metric = text.Levenshtein(self.vocab)
-        self.valid_metric = text.Levenshtein(self.vocab)
+        # Metrics Transcription
+        self.training_metric = text.CharErrorRate(self.vocab)
+        self.valid_metric = text.CharErrorRate(self.vocab)
 
         # Model and training-related
         self.model = KangSeq2Seq(self.cfg.model, self.cfg.data)

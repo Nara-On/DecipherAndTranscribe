@@ -1,0 +1,19 @@
+Index results
+
+- tr_01: Test (Levenchestein)
+    	-> qzgvvlp4 = 200 epochs
+	-> wkcfn37e = 149 epochs
+
+- tr_02: Augmentations
+	-> rxov4ko3 = 200 epochs - Big output units (exp_seq2seq2_2): Ignore 133
+	   tr_02_ignore.txt
+
+	-> 6l4dsf9e = 162 epochs - Small output units (exp_seq2seq_3): Don't Ignore
+	   tr_02_reduced.txt
+
+	-> xclm78zh = ___ epochs - Big output units (exp_seq2seq2_2): Treat errors
+	   tr_02____________
+
+- de_01: Decipherment
+	-> ________ = (exp_seq2seq_4)
+

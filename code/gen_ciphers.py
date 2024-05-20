@@ -40,7 +40,7 @@ if __name__ == '__main__':
     copiale = cop.Copiale(1502)
     generator = gen.CipherGenerator(ttfs, alphabets, texts, lines)
     augmentation = aug.Augmentation(3)
-    
+    """
     #generator.gen_randlines("../databases/lines/", 200)
     generator.gen_lines("../databases/lines/")
     
@@ -52,8 +52,11 @@ if __name__ == '__main__':
     
     copiale.print_alphabet()
     copiale.gen_realLines("../databases/copiale_real-vs-sint/sint/")
-    
+    """
     augmentation.augmentator(os.listdir("../databases/copiale_real-vs-sint/sint/images"), 
-                             '../databases/copiale_real-vs-sint/sint/images/',
-                             "../databases/copiale_real-vs-sint/sint/augmentation/")
+                                 "../databases/copiale_real-vs-sint/sint/images/",
+                             os.listdir("../databases/copiale_real-vs-sint/sint/transcriptions"), 
+                                 "../databases/copiale_real-vs-sint/sint/transcriptions/",
+                             "../databases/copiale_real-vs-sint/sint/augmentation/",
+                             "../databases/copiale_real-vs-sint/sint/augmentation_gt/")
     

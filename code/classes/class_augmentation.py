@@ -141,28 +141,44 @@ class Augmentation:
         return final_image
     
     
-    def augmentator(self, imList, image_path, savepath):
+    def augmentator(self, imList, image_path, txtList, txt_path, img_savepath, txt_savepath):
         """
         Apply augmentation in a list of images
         
         Inputs: 
-            - imList = Original images (list)
+            - imList = Original image files (list)
             - image_path = Directory whith the original images (string)
-            - savepath = Directory where the new images will be saved (string)
+            - txtList = Transcription files (list)
+            - text_path = Directory whith the transcriptions (string)
+            - img_savepath = Directory where the new images will be saved (string)
+            - txt_savepath = Directory where the new gt will be saved (string)
         
         """
         
         # Generate directories if necessary
-        if not os.path.exists(savepath):
-            os.makedirs(savepath)
+        if not os.path.exists(img_savepath):
+            os.makedirs(img_savepath)
+
+        if not os.path.exists(txt_savepath):
+            os.makedirs(txt_savepath)
             
-        for im in imList:
+        for im, txt in zip(imList, txtList):
             print("Generating variations from image " + im)
+            original = cv2.imread(image_path + im, 0)
+            line = open(txt_path + txt, "r").read()
+            
             for i in range(0, self.multiplicator):
-                image = cv2.imread(image_path + im, 0)
-                image = cv2.resize(self.variation(image), (image.shape[1], image.shape[0]), interpolation=cv2.INTER_AREA)
+                # Image Operations
+                image = cv2.resize(self.variation(original), (original.shape[1], original.shape[0]), interpolation=cv2.INTER_AREA)
                 image = Image.fromarray(image)
                 
-                image.save(savepath + im.split(".")[0].lower() + '_' + str(i) + '.png',"PNG")
+                image.save(img_savepath + im.split(".")[0].lower() + '_' + str(i) + '.png',"PNG")
+                
+                # Text Operations
+                f = open(txt_savepath + txt.split(".")[0].lower() + '_' + str(i) + '.txt', "w")
+                f.write(line)
+                f.close()  
+    
+    
     
     
