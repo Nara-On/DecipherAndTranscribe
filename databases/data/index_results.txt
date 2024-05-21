@@ -11,8 +11,8 @@ Index results
 	-> 6l4dsf9e = 162 epochs - Small output units (exp_seq2seq_3): Don't Ignore
 	   tr_02_reduced.txt
 
-	-> xclm78zh = ___ epochs - Big output units (exp_seq2seq2_2): Treat errors
-	   tr_02____________
+	-> t0oil8qz = 200 epochs - Big output units (exp_seq2seq2_2): Treat errors
+	   tr_02_substitution
 
 - de_01: Decipherment
 	-> ________ = (exp_seq2seq_4)
