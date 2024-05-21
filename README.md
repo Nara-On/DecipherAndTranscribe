@@ -12,6 +12,8 @@ Marina Bermúdez Granados - <a href="https://github.com/nara-on">nara-on</a> <br
 <br />
 
 ### Version History
+* 4.4
+    * Final Training on transcription task added
 * 4.3
     * Training results on transcription task added
     * Visuals added
