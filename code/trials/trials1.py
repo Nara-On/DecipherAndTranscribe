@@ -277,6 +277,7 @@ if __name__ == '__main__':
         gt.append(t.read())
         t.close()
     
+    
     # Find index values TR2 - GT
     index = []
     foundGT = []
@@ -291,42 +292,40 @@ if __name__ == '__main__':
     
     # Assign equal values
     assignedDe = list(np.zeros(len(gt)))
+    
     for i in range(0, len(gt)):
         indTr = index[i]
         if indTr != "?":
             assignedDe[i] = de[indTr].strip()
     
-    # Assign similar values by beginning
-    stillMissing = []
+    
+    # Assign similar values by beginning/end
+    manual = []
     missing = [index for (index, item) in enumerate(assignedDe) if item == 0.0]
     
     for miss in missing:
-        suggestions = [item for item in tr2 if item.startswith(gt[miss][0:40])]
+        suggestionsEarly = [item for item in tr2 if item.startswith(gt[miss][0:40])]
+        suggestionsLate =[item for item in tr2 if item.endswith(gt[miss][-40:])]
         
-        if len(suggestions) == 1:
-            assignedDe[miss] = suggestions[0]
+        if len(suggestionsEarly) == 1:
+            assignedDe[miss] = de[tr2.index(suggestionsEarly[0])].strip()
+            #assignedDe[miss] = de[tr2.index(suggestions[0])]
         else:
-            stillMissing.append([miss, suggestions])
-    
-    # Assign similar values by ending
-    manual = []
-    for miss, i in stillMissing:
-        suggestions = [item for item in tr2 if item.endswith(gt[miss][-40:])]
-        
-        if len(suggestions) == 1:
-            assignedDe[miss] = suggestions[0]
-        else:
-            manual.append([miss, suggestions])
+            if len(suggestionsLate) == 1:
+                assignedDe[miss] = de[tr2.index(suggestionsLate[0])].strip()
+                #assignedDe[miss] = suggestionsLate[0]
+            else:
+                manual.append([miss, suggestionsLate])
             
             
     # Export gt deciphered
-    """
-    if not os.path.exists("../databases/copiale_real-vs-sint/real/deciphered/"):
-        os.makedirs("../databases/copiale_real-vs-sint/real/deciphered/")
+    if not os.path.exists("../../databases/copiale_real-vs-sint/real/deciphered/"):
+        os.makedirs("../../databases/copiale_real-vs-sint/real/deciphered/")
             
     for i, dec in enumerate(assignedDe):
-        f = open("../databases/copiale_real-vs-sint/real/deciphered/" + "d2_" + str(i).rjust(4, '0') + ".txt" ,"w")
+        print("File number: " + str(i))
+        f = open("../../databases/copiale_real-vs-sint/real/deciphered/d2_" + str(i).rjust(4, '0') + ".txt" ,"w")
+        print(dec)
         f.write(dec)
-        f.close()   
-    """
+        f.close()
     

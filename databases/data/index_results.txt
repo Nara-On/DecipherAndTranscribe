@@ -1,19 +1,101 @@
 Index results
 
 - tr_01: Test (Levenchestein)
-    	-> qzgvvlp4 = 200 epochs
-	-> wkcfn37e = 149 epochs
+	- exp_seq2seq2_1
+		-> wkcfn37e = 149 epochs - max 5000
+    		-> qzgvvlp4 = 200 epochs - max 200
 
-- tr_02: Augmentations
-	-> rxov4ko3 = 200 epochs - Big output units (exp_seq2seq2_2): Ignore 133
-	   tr_02_ignore.txt
 
-	-> 6l4dsf9e = 162 epochs - Small output units (exp_seq2seq_3): Don't Ignore
-	   tr_02_reduced.txt
+- tr_02: Augmentations (CharactER)
+	- exp_seq2seq2_2
+		-> rxov4ko3 = Ignore errors - 200 epochs (tr_02_ignore.txt)
+		-> t0oil8qz = Treat errors - 200 epochs (tr_02_substitution.txt)
+	- exp_seq2seq_3
+		-> 6l4dsf9e = Reduced output units - 162 epochs (tr_02_reduced.txt)
 
-	-> t0oil8qz = 200 epochs - Big output units (exp_seq2seq2_2): Treat errors
-	   tr_02_substitution
 
-- de_01: Decipherment
-	-> ________ = (exp_seq2seq_4)
+- tr_02: Augmentations (Levenchestein tests)
+	- exp_seq2seq2_4
+		-> stl25le1 = Levenchestein - 200 epochs (tr_02_lev00.txt) 
+				- batch_size = 12
+				- l_r = 3e-4
+				- w_d = 0.001
+				- plateau = false
+
+		-> 71spo6mw = Levenchestein - 90 epochs, stopped (tr_02_lev01.txt)
+				- batch_size = 16
+				- l_r = 1e-4
+				- w_d = 0.02
+				- plateau = true, factor of 0.1, 5 it
+
+		-> 2giyfbxj = Levenchestein - 200 epochs (tr_02_lev02.txt)
+				- l_r = 3e-5
+
+		-> ua4bgxid = Levenchestein - 200 epochs  (tr_02_lev03.txt)
+				- l_r = 3e-4
+				- plateau = true, factor of 1e-1, 5 it
+
+		-> 0cmoqj5k = Levenchestein - 200 epochs (tr_02_lev04.txt)
+				- batch_size = 12
+				- l_r = 3e-5
+				- plateau = true, factor of 0.1, 5 it
+
+		-> gaoyaidz = Levenchestein - 200 epochs (tr_02_lev05.txt)
+				- focal -> cross_entropy
+
+		-> q1c2g7tm = Levenchestein - 200 epochs(tr_02_lev06.txt)
+				- cross_entropy -> focal
+				- warmup = false, factor of 1e-1, 5000 it
+
+		-> 3r1a0ff5 = Levenchestein - 200 epochs (tr_02_lev07.txt)
+				- warmup = true, factor of 1e-1, 5000 it
+				- teacher rate = 0.15
+
+		-> 0indazlc = Levenchestein - 200 epochs (tr_02_lev08.txt)
+				PAPER'S PARAMETERS
+				- label_smoothing = 0.4
+				  (vgg_type = 19)
+				- encoder_layers = 2
+				- decoder_layers = 2
+				  (hidden_size = 512)
+				  (attn_smoothing = false)
+				  (dropout = 0.5)
+				  (multinominal = false)
+
+				- batch_size = 16 (Paper = 32 -> Out of Memory Error) 
+				- l_r = 2*10^-4 = 0.0002
+				  (optimizer = "adamw")
+
+				OTHER CHANGES
+				- teacher_rate = 0
+				- warmup = false
+
+		-> ph7ybv4l = Levenchestein - 500 epochs (tr_02_lev09.txt)
+				- label_smoothing = 0.2
+				- encoder_layers = 4
+				- decoder_layers = 4
+				- teacher_rate = 0.15
+				- max_epochs = 500
+				- batch_size = 12
+				- l_r = 3e-5
+				- warmup = true, factor of 1e-1, 5000 it
+
+		-> ________ = Levenchestein - 1000 epochs (tr_02_lev¿?.txt)
+				PAPER'S PARAMETERS
+				- label_smoothing = 0.4
+				  (vgg_type = 19)
+				- encoder_layers = 4	 	(Paper = 2)
+				- decoder_layers = 4 	 	(Paper = 2)
+				  (hidden_size = 512)
+				  (attn_smoothing = false)
+				  (dropout = 0.5)
+				  (multinominal = false)
+
+				- batch_size = 16 		(Paper = 32 -> Out of Memory Error) 
+				- l_r = 2*10^-4 = 0.0002
+				  (optimizer = "adamw")
+
+				OTHER CHANGES
+				- teacher_rate = 0
+				- warmup = false
 

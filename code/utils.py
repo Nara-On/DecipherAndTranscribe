@@ -56,14 +56,19 @@ def uniqueCharacters(path, listFiles):
         line = f.read()
         f.close()
         
+        listChars.extend(list(line))
+        
+        """        
         # Add to list
         words = line.split(" ")
         
+
         for w in words:
             if w in exceptions:
                 listChars.append(w)
             else:
                 listChars.extend(w)
+        """
         
     listChars.append(" ")
     

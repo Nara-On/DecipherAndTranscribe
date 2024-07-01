@@ -5,7 +5,7 @@ import warnings
 
 import classes.class_copiale as cop
 import classes.class_cipherGenerator as gen
-import classes.class_augmentation as aug
+#import classes.class_augmentation as aug
 
 warnings.filterwarnings("ignore", category = DeprecationWarning) 
 
@@ -15,8 +15,7 @@ ttfs = ["Masonic_Cipher.ttf","KeilFont.ttf","Stickman.ttf",
         "Copiale.ttf","ModernRunic-Regular.ttf", "PigpenCipher.otf"]
 
 lines = ["quotes.txt"]
-texts = ["mid_ElEscorpionYLaRana.txt", "mid_RimaLIII.txt", 
-         "mid_TheGrasshopper.txt", "mid_TheHareAndTheTortoise.txt"]
+texts = ["mid_ElEscorpionYLaRana.txt"]
 
 # Alphabets
 alphabet_numerical = "0123456789 "
@@ -39,9 +38,9 @@ if __name__ == '__main__':
     
     copiale = cop.Copiale(1502)
     generator = gen.CipherGenerator(ttfs, alphabets, texts, lines)
-    augmentation = aug.Augmentation(3)
-    """
-    #generator.gen_randlines("../databases/lines/", 200)
+    #augmentation = aug.Augmentation(3)
+    
+    generator.gen_randlines("../databases/lines/", 200)
     generator.gen_lines("../databases/lines/")
     
     generator.gen_texts("../databases/texts/")
@@ -52,11 +51,10 @@ if __name__ == '__main__':
     
     copiale.print_alphabet()
     copiale.gen_realLines("../databases/copiale_real-vs-sint/sint/")
-    """
-    augmentation.augmentator(os.listdir("../databases/copiale_real-vs-sint/sint/images"), 
-                                 "../databases/copiale_real-vs-sint/sint/images/",
-                             os.listdir("../databases/copiale_real-vs-sint/sint/transcriptions"), 
-                                 "../databases/copiale_real-vs-sint/sint/transcriptions/",
-                             "../databases/copiale_real-vs-sint/sint/augmentation/",
-                             "../databases/copiale_real-vs-sint/sint/augmentation_gt/")
+    
+    #augmentation.augmentator_img("../databases/copiale_real-vs-sint/sint/images/", 
+    #                             "../databases/copiale_real-vs-sint/sint/augmentations/")
+    #augmentation.augmentator_img("../databases/copiale_real-vs-sint/real/images/",
+    #                             "../databases/copiale_real-vs-sint/real/augmentations/")
+
     

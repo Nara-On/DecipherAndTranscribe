@@ -141,19 +141,21 @@ class Augmentation:
         return final_image
     
     
-    def augmentator(self, imList, image_path, txtList, txt_path, img_savepath, txt_savepath):
+    def augmentator_txt(self, img_path, txt_path, img_savepath, txt_savepath):
         """
-        Apply augmentation in a list of images
+        Apply augmentation in a list of images and texts
         
         Inputs: 
-            - imList = Original image files (list)
-            - image_path = Directory whith the original images (string)
-            - txtList = Transcription files (list)
-            - text_path = Directory whith the transcriptions (string)
+            - img_path = Directory whith the original images (string)
+            - txt_path = Directory whith the transcriptions (string)
             - img_savepath = Directory where the new images will be saved (string)
             - txt_savepath = Directory where the new gt will be saved (string)
         
         """
+        
+        # File names
+        imList = os.listdir(img_path)
+        txtList = os.listdir(txt_path) 
         
         # Generate directories if necessary
         if not os.path.exists(img_savepath):
@@ -164,7 +166,7 @@ class Augmentation:
             
         for im, txt in zip(imList, txtList):
             print("Generating variations from image " + im)
-            original = cv2.imread(image_path + im, 0)
+            original = cv2.imread(img_path + im, 0)
             line = open(txt_path + txt, "r").read()
             
             for i in range(0, self.multiplicator):
@@ -172,13 +174,42 @@ class Augmentation:
                 image = cv2.resize(self.variation(original), (original.shape[1], original.shape[0]), interpolation=cv2.INTER_AREA)
                 image = Image.fromarray(image)
                 
-                image.save(img_savepath + im.split(".")[0].lower() + '_' + str(i) + '.png',"PNG")
+                image.save(img_savepath + im.split(".")[0] + '_' + str(i) + '.png',"PNG")
                 
                 # Text Operations
-                f = open(txt_savepath + txt.split(".")[0].lower() + '_' + str(i) + '.txt', "w")
+                f = open(txt_savepath + txt.split(".")[0] + '_' + str(i) + '.txt', "w")
                 f.write(line)
                 f.close()  
     
+    
+    def augmentator_img(self, img_path, img_savepath):
+        """
+        Apply augmentation in a list of images
+        
+        Inputs: 
+            - img_path = Directory whith the original images (string)
+            - img_savepath = Directory where the new images will be saved (string)
+        
+        """
+        # File names
+        imList = os.listdir(img_path)
+        
+        # Generate directories if necessary
+        if not os.path.exists(img_savepath):
+            os.makedirs(img_savepath)
+
+            
+        for im in imList:
+            print("Generating variations from image " + im)
+            original = cv2.imread(img_path + im, 0)
+            
+            for i in range(0, self.multiplicator):
+                # Image Operations
+                image = cv2.resize(self.variation(original), (original.shape[1], original.shape[0]), interpolation=cv2.INTER_AREA)
+                image = Image.fromarray(image)
+                
+                image.save(img_savepath + im.split(".")[0] + '_' + str(i) + '.png',"PNG")
+                
     
     
     

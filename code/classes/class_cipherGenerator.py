@@ -137,7 +137,7 @@ class CipherGenerator:
                 print("- File " + file_char.split(".")[0].lower())
                 
                 # Read text file
-                l = open("../../texts/" + file_char, "r")
+                l = open("../texts/" + file_char, "r")
                 
                 for txt in l.readlines():
                     self.createImage(txt.strip(), ttf, image_savepath + ttf.split(".")[0].lower() + "_" + str(index) + ".png", 
@@ -174,7 +174,7 @@ class CipherGenerator:
                 print("- File " + file_char.split(".")[0].lower())
                 
                 # Read text file
-                file = open("../../texts/" + file_char, "r", encoding="UTF-8")
+                file = open("../texts/" + file_char, "r", encoding="UTF-8")
                 
                 # Filter characters
                 big_text = ""
@@ -229,7 +229,7 @@ class CipherGenerator:
             os.makedirs(savepath)
         
         # Create image
-        self.createImage(text, ttf, savepath+ ttf.split(".")[0].lower() + ".png", 
+        self.createImage(text, ttf, savepath + ttf.split(".")[0].lower() + ".png", 
                          savepath + ttf.split(".")[0].lower() + ".txt")
     
     
@@ -249,7 +249,7 @@ class CipherGenerator:
             os.makedirs(savepath)
             
         # Read text file
-        file = open("../../texts/" + file, "r", encoding="UTF-8")
+        file = open("../texts/" + file, "r", encoding="UTF-8")
         
         # Filter characters
         big_text = ""
@@ -288,6 +288,6 @@ class CipherGenerator:
         
         # Create images
         for text in pack:
-            self.createImage(text, ttf, savepath+ ttf.split(".")[0].lower() + ".png", 
+            self.createImage(text, ttf, savepath + ttf.split(".")[0].lower() + ".png", 
                              savepath + ttf.split(".")[0].lower() + ".txt")
 
