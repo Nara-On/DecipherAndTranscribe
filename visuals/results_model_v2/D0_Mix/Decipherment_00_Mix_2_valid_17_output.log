@@ -1,0 +1,750 @@
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0674.png|de     e  e  e  e   e   e   e   e   e   e   e   e    e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0490.png|de     e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0693.png|de    e  e  e   e   e  e  e  e   e   e   e  ee  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0968.png|ee      e      e  e   e  e  e  e  e  e  e   e    e  e      e  e   e  ee  ee ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0365.png|de    e  e   e   e   e   e    e    e     e     e     e    e   e   e  e  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0043.png|de    e  e  e  e  e   e   e   e   e  e   e   e   e   e   e  e  e  e  e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0718.png|de      e   e  e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1292.png|de    e  e  e  e   e   e   e   e   e   e   e   e  e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0668.png|ee  e  e  e    e   e   e   e   e   e  e  e    e   e   e   e   e   e  e  ee  ee  e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0035.png|de            e   e   e   e   e   e   e    e    e   e    e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0849.png|ind    e     e    e   e  e  e  e   e  e  e   e    e   e  e    e     e   e  e  e  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0200.png|de      e   e   e   e  e   e  e   e   e    e   e   e   e   e  e  e  e  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0038.png|ee           e  e   e   e   e   e   e  de   e  e   e  e  e  e   e  e  e  e  e ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0856.png|ie        e  e  e  e   e   e   e   e   e  e      e   e   e   e  e  e   e  e  e  e  ee  ee  eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0663.png|ee        e        e   e   e    e   e  e   e   e   e     e  e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0892.png|in       e    e    e     e       e   e   e    e   e    e    e    e   e    e   e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0441.png|ee    e  e        e     e   e  e  e  ee  e    e    e    e   e  ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0352.png|ee      e  e      e   e   e     e     e   e  e   e  e  e    e   e   e    e   e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0944.png|ee  e  e  e  e  e  e  e  e  e  e  e  e  e  e  ee  e  ee   e  e  ee  e  ee ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0084.png|ie        e      e       e       e         e     e       e    e      e    e      e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0626.png|de          e   e   e   e   e    e   e    e    e    e    e    e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0508.png|ee    e  e  e  e   e  e   e   e  e   e   e  e   e   e  e   e  e  e  e  e  ee  ee ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0678.png|ee        e   e  e   e  e   e   e  e   e   e   e     e   e  e   e  e  ee  ee ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1149.png|ee      e  e  e   e  e   e   e   e   e   e   e    e   e   e    e   e   e   e  e  e  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0762.png|ee       e   e  e   e  e   e    e   e  e  e  e  e  e  e  e   e  ee  e  ee  ee  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0583.png|in     e   e   e    e     e      e      e      e      e     e     e    e   e   e   e  e  ee  ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0913.png|ee           e   e   e     e   e    de    e   e   e    e   e   e     e   e     e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0373.png|in       e    e       e  e  e  e  e   e    e   e   e  e   e      e   e  e  e  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0037.png|in      e   e   e   e   e    e   e    e   e   e     e   e    e   e    e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0070.png|ee       e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1044.png|ee       e   e  e  e  e  e  e  e   e  ee  e  e  e   e  e   e  e  e   e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0117.png|de    e     e    e  e  e  e  e  ee   e  e  e   e    e  e  ee  e  e  ee  ee eee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1358.png|ee      e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1107.png|ge     e   e   e   e   e     e  e   e   e  e  e  e  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0153.png|in      e  e  e  e    e   e   e  e  e  e   e     e   e   e   e  e    e   e   e  e  ee  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0814.png|in          e   e    e   e    e   e    e   e     e   e    e    e   e   e   e   e  e   e  e  ee  ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0309.png|ee    e  e  e   e  e   e   e  e   e  e   e   e   e  e   e  e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1096.png|de      e   e   e   e   e   e   e   e   e   e   e   e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1128.png|in     e    e   e  e   e  e  e   e   e   e    e     e     e   e   e   e  e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0642.png|ee      e  e   e    e  e  e  e  e   e     e   e  e   e   e   e   e  e  ee  ee ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0954.png|ee  e  e  e  e  e  e   e  e   e  e  e  e  e   ee  e   e  e   ee  ee  ee  eeee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0146.png|de     e   e   e    e    e    e    e    e     e    e    e   e  e  e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0067.png|end        e    e   e    e    e    e    e    e     e    e     e    e   e   e   e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1233.png|ee     e   e   e   e  e   e  e  e   e  e   e  e   e  e  e  e  ee  e  ee  eee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0401.png|ee           e   e  e   e   e   e  e     e   e   e    e   e  e   e  e  e  ee  ee  e  eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1346.png|ind      e      e    e   e     e  e  e   e   e    e   e     e   e   e  e   e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0322.png|in     e  e  e    e   e  e     e    e   e   e  e    e  e   e  e    e   e  e  e   e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0593.png|ee          e    e  e  e   e    e  e   e   e   e    e   e  e  ee  e  e  ee ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1237.png|in         e  e      e     e       e      e      e      e      e     e     e    e   e   e  e  e  e  ee  ee  e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0496.png|ee       e      e     e  e   e   e   e  e     e   e   e   e    e  e  e  e  e  ee ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0181.png|me       e  e   e   e  e  e  e  e  e   e   e  e   e  e   e   e  ee  ee  ee  e  e ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0119.png|ee         e  e  e  e   e  e   e   e   e  e   e   e   e    e  e  e  e  e  e  e  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1375.png|in      e    e   e  e   e   e   e   e  e      e   e   e    e   e    e   e   e  e  e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1384.png|ee      e  e  e  e  e  e  e  e  e  e  e  e  e    e   e   e   e  e  e  e  e  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1051.png|in       e   e    e   e  e     e    e     e     e   e     e    e    e   e   e   e   e   e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0034.png|ge  e  e  e  e  e  e  e   e  e  e  e   e  e   e  e  e   e  ee   e  ee  ee eee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0955.png|ie         e  e     e   e    e   e    e   e     e   e    e   e  e   e  ee ee  e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1226.png|in    e  e   e   e  e  e  e   e  e  e   e    e  e   e   e   e   e  e  e  e  ee  ee  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1390.png|de    e  e   e  e  e  e   e  e  e  e  e  e   e  ee  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0413.png|in  e    e  e   e   e   e   e   e   e   e   e      e   e   e   e   e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0854.png|de    e  e   e   e   de   e  e  e   e   e   e   e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0619.png|de      e      e   e  e   e       e    e   e  e      e  e  ee   e   e  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1407.png|de      e    e  e  e  e  e  e  e  e  e  ee     e  e   e  ee  ee  ee ee  ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1280.png|ee           e   e  e  e  e  e  e  e  e  e    e    e   e  e  e  e  ee  e eee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0744.png|de     e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1092.png|de     e    e    e   e     e   e     e   e   e  e  e  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0121.png|de     e    e   e  e  e  e  e  e   e  e  e   e    e  e  e  ee  e  e  ee  eee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0735.png|ge   e  e  e  e   e   e  e   e   e  e   e   e   e   e  e  e  e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1188.png|ee               e        de   e   e    e   e   e   e      e  e  e   e  e  e ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0013.png|ee     e   e  e  e  e  e   e  e   e  e   e  e   e  e   e  e  e  e  e  e  e  ee  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0951.png|ee     e   e  e   e  e  e   e  e   e  e   e  e  e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0874.png|de   e  e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0014.png|ee   e  e  e  e  e  e  e  e  e  e  e   e  e   e  e   e  e  e  e  ee  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0807.png|in      e     e   e      e       e  e    e   e   e  e   e   e   e  e   e  e  e  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0134.png|in     e  e  e      e   e  e  e   e   e   e    e   e   e   e      e   e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0565.png|ee          e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1438.png|ee     e      e   e  e  e   e    e  e    e    e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0782.png|ee   e  e  e  e  e  e  e   e  e   e    e   e  e   e   e   e   e   e  e   e  e  e  ee  ee  eee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0000.png|ee         e   e   e   e    e   e    e   e   e   e   e   e   e   e   e  e  e  e  ee  eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1074.png|ee      e  e   e     e     e         e    e   e    e    e   e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0513.png|ee           e     e    e    e   e    e    e    e    e   e    e   e  e  ee  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0296.png|ee  e  e  e  e  e  e  e  e  e  e  e  e   e  e   ee   e   e  e  ee  e  e  e  e  ee  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0773.png|ind       e      e   e   e   e        e    e    e   e   e   e   e   e   e  e   e  e  e  ee  ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1228.png|in        e      e    e   e     e   e   e   e   e     e   e   e    e   e  e  e  e ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0567.png|ee     e   e     e     e   e   e  e   e       e    e   e  e   e     e    e   e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0221.png|de   e  e  e  e  e  e   e   e   e   e   e   e   e   e   e   e   e  e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0172.png|de      e  e   e  e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0974.png|ge    e  e  e  e  e   e   e   e   e   e  e  e  ee  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0463.png|de    e  e  e  e  e  e  e  e  e   e     e   e   e  e  e   e   e  ee  e  ee eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0149.png|ee  e  e  e  e  e  e  e  e  e   e   e   e   e  e   e   e   e   ee  e   e  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0164.png|ge    e  e  e  e  e   e  e   e  e   e  e   e   e  ee  ee  ee  ee ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0292.png|ee     e  e  e  e  e  e  e  e   e  e   e   e   e  e   e   e   e   e   e  e  e  e  e  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1238.png|ee         e   e   e   e   e   e    e    e    e    e    e    e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0791.png|de     e  e  e  e  e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0175.png|de     e   e      e   e  e   e   e   e     e   e    e  e  e  ee  ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1057.png|ind     e    e   e    e   e    e   e    e    e    e    e    e   e   e   e   e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0036.png|in  e   e  e   e  e  e  e   e   e   e    e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0772.png|ee         e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0812.png|ee              e   e  e   e  e  e  e   e  e  e    e   e   e   e   e  e  e  e ee ee eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0592.png|ee     e  e  e   e   e   e  e   e   e    e   e  e  e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1127.png|de     e  e  e  e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0523.png|ee       e   e  e  e  e    e    e   e         e   e    e   e   e  e  e   e  e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0524.png|dee   e  e  e  e   e  e  e  e  e  e  e  e  e  e   e  e  e  ee  ee ee eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0741.png|ge     e   e   e   e   e   e   e   e   e  e  ee  ee  ee eee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0083.png|me         e  e   e   e   e   e   e   e  e    e    e   e    e    e     e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0069.png|ee  e  e  e  e   e   e   e   e     e    e       e   e   e   e   e  e  e  e  ee  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0387.png|ee     e  e  e   e  e  e   e  e  e   e   e   e   e   e   e   e   e   e  e  e  e  e  e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1179.png|de        e   e   e  e   e   e  e   e   e   e   e   e  e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1334.png|de      e   e      e    e     e       e    e     e     e   e   e   e  e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1364.png|in      e  e   e  e    e   e  e  e   e   e   e    e   e   e   e   e    e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1261.png|de     e  e   e   e   e   e    e   e    e   e    e   e    e   e  e   e  e  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1421.png|ge   e  e  e  e  e  e  e   e   e  e  e  e   e   e  ee  ee  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1426.png|ee  e  e  e  e  e  e   e  e  e  e  e  e  e  e  e   e  e  e   e  e  e  e ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0824.png|ee                 e  e  e  e  e  e   e   e  e    e   e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1163.png|in        e   e  e   e   e   e   e   e   e     e     e   e   e  e   e   e   e   e  e  e  ee  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0806.png|de      e  e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0488.png|ee      e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1121.png|de     e  e   e   e  e  e   e   e   e  e     e   e  e  e    e   e  ee  e  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0273.png|ee       e     e  e   e   e      e    e  e  e   e   e   e   e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0589.png|ee      e    e  e  e   e   e   e   e    e   e  e  e  e   e  e   e   e  e  e  e  e  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1289.png|ee        e   e  e   e   e   e   e   e   e   e   e   e   e   e  e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0457.png|ee        e            e      e  e  e    e   e   e   e       e   e   e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0904.png|in         e   e   e   e   e     e   e    e      e    e   e   e   e   e   e    e   e  e  e   e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0003.png|ee       e   e   e  e   e   e   e   e      e     e    e   e   e   e   e   e    e   e  e  ee  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0370.png|ge    e  e   e   e   e   e   e   e   e    e   e   e   e  e  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1441.png|en     e     e    e  e     e     e   e   e   e   e    e    e   e     e    e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0605.png|in       e   e      e      e   e   e  e   e    e   e   e     e   e     e  e  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1032.png|in      e  e  e    e   e  e   e   e  e   e  e   e   e  e   e  e   e   e   e  e  e  e  ee  ee ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0669.png|ee          e   e   e   e   e   e   e   e  e   e   e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0909.png|ee      e   e  e  e  e  e  e  e  e  e   e  e   e  e   e  ee  ee  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0049.png|ee         e   e   e   e    e   e    e   e    e    e    e   e   e   e   e  e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1329.png|ee     e  e  e  e  e  e  e  e  e  e   e  e   e  e   e  e  e  e  e  ee  e ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1419.png|ee  e  e  e  e  e  e   e  e   e   e  e   e   e   e   e   e   e  e  ee   e  e  e  ee  ee eeee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0928.png|de     e  e   e   e   e   e   e   e   e    e   e   e    e   e   e   e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0720.png|ee     e  e  e  e  e  e  e  e  e  e   e  e   e  e   e  e   e  e   e  e  e  e  e  ee  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0428.png|ee     e  e  e  e   e   e   e    e    e    e    e    e     e    e   e  e  e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0839.png|ee        e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1220.png|ee  e  e  e  e  e  e  e  e  e  e  e  ee  e  e  ee  e  ee  e  e  e  e  ee  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0030.png|de    e  e  e  e  e  e  e   e  e   e  e   e   e   e   e   e   e  e  e  e  e  e  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0550.png|de     e  e   e  e  e   e  e   e  e  e  e  ee  ee  ee eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1378.png|ee        e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0246.png|de     e  e   e  e   e   e  e   e   e   e   e   e    e   e   e   e  e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0723.png|ee          e   e  e  e   e   e   e   e   e    e   e   e   e   e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0932.png|ie       e   e   e   e   e   e   e   e   e   e    e   e    e   e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1235.png|ie      e  e  e   e  e  e   e    e   e   e   e   e  e   e    e  e   e   e   e  e  e   ee  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0260.png|ind        e  e  e  e  e  e  e  e  e  e  e  e  e     e   e    e  e   e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1319.png|ie      e   e   e   e   e   e   e  e   e    e   e   e   e   e   e   e   e  e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0660.png|en     e       e  e  e   e  e  e  e   e  e     e        e    e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0198.png|de      e   e   e    e   e    e   e    e    e   e    e   e    e  e  e  e  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1431.png|de     e  e  e   e  e   e   e   e  e   e  e    e   e  e  e  ee  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1281.png|ee        e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0137.png|in      e    e    e   e   e   e   e   e    e   e   e   e    e   e   e   e  e  e  ee  e  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0078.png|end     e   e  e  e  e  e  e   e  e   e   e   e   e    e   e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1191.png|ee  e  e  e  e  e  e  e   e   e   e   e    e   e  e  e  e  e   ee   e   e  e  ee  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0039.png|de     e  e  e  e  e  e  e   e  e  e   e  e   e  e  e  e  e  e  e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1332.png|ee        e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0278.png|ee        e  e     e   e    e     e   e   e     e   e      e   e  e  ee   e  ee  ee  e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1105.png|ee                e  e  e  e   e    e  e   e   e   e     e   e  e  e  ee  e  e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0738.png|ee   e     e   e   e     e  e  e  e  e  e   e  e  e  e   e   e  e  e  ee eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1062.png|in       e  e  e  e   e   e   e  e      e    e   e   e   e   e   e   e   e    e   e   e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1138.png|ind      e    e   e  e   e   e   e   e   e   e     e   e   e   e   e   e  e  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0729.png|ge   e  e  e  e  e  e  e   e   e  e   e  e  e   e  e  ee  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1000.png|ee          e   e   e    e    e    e   e    e   e   e   e    e   e   e   e  e  e   ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1400.png|ee  e   e  e  e   e   e  e  e   e  e  e   e   e  ee  e  e  e   e   e  ee  ee  eee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1413.png|de   e  e  e  e  e  e  e  e  e  e  e  e   e  e  e   e  e  e  e  e  e  e  ee  ee  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0066.png|in         e      e  e   e   e   e   e   e      e    e     e   e   e   e  e  e  e  e  e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0022.png|ee       e   e  e   e  e  e  e   e   e   e    e  e   e    e   e   e  e  e  e  ee  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1055.png|ee     e  e   e   e     e  e  e  e   e    e  e   e  e   e   e  ee  ee ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1147.png|in      e   e     e   e   e        e   e  e   e     e   e   e    e  e  e  e  e   e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1021.png|ee     e  e  e  e  e  e   e  e  e  e   e   e   e   e   e    e  e   e  e  e  e  e  ee  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0556.png|ee        e     e  e  e      e   e     e   e    e   e   e   e   e   e  e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0837.png|de     e  e  e  e  e  e  e  e  e   e  e   e   e  e   e  e   e  e   e  e  e  e  e  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0376.png|ee      e  e   e  e     e   e  e  e  e  e   e   e    e   e  e  e  e  e  e  e  e  e  ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0244.png|de     e  e  e   e   e   e   e   e    e   e    e   e    e   e   e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1219.png|ee   e  e  e  e  e  ee  e  ee  e  e  ee  e   e  e  e  ee  ee ee eee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1471.png|ee       e   e   e   e   e  e  e  e  e   e   e    e    e   e   e   e  e  e  ee ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0436.png|de     e  e  e   e  e   e  e   e    e   e    e   e   e   e  e  e  e  e  e  ee  ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0848.png|ind    e       e     e   e   e  e   e    e  e   e   e   e   e    e  e   e  e  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1416.png|de           e   e   e    e   e   e   e   e     e   e    e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1005.png|ie       e     e   e   e   e   e   e       e  e  e   e  e  e   e   e  e  e  e  ee  ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1450.png|we        e   e   e   e   e   e    e    e    e    e    e   e    e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0213.png|de      e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1415.png|in  e   e  e  e   e   e   e   e   e   e   e   e    e   e   e   e   e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0578.png|in      e  e  e    e  e  e    e   e   e    e   e  e   e  e    e  e   e   e   e   e  e   e  ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1277.png|de      e  e   e  e   e   e   e   e   e   e   e   e  e  e  e  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0264.png|ee     e  e   e   e   e   e   e   e   e   e   e  e   e  e   e  e  e  e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0044.png|in     e  e  e   e   e   e    e    e     e     e     e    e    e    e    e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0803.png|in     e     e   e   e    e    e   e   e     e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1393.png|ee  e  e    e   e   e  e  e  e  e  e  e  e  e  e   e  e  e  e  e  e  e  e  ee ee eee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0082.png|ee            e   e       e   e   e    e   e   e   e   e      e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1078.png|ee  e  e  e  e  e  e  e   e   e   e    e   e    e   e    ee   e   ee   e  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0986.png|de     e    e   e   e  e   e    e   e   e  e    e   e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1009.png|ee      e    e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0959.png|ee  e    e  e  e  e  e  e  e  e  ee     e   e  e   e  ee  e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0476.png|de      e     e  e  e   e  e  e  e  e  e  e      e  e   e  ee  ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1388.png|ee         e  e    e   e  e   e  e  e   e     e   e    e   e   e   e  e  ee  ee ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0536.png|ie         e  e  e   e   e   e    e  e   e     e   e   e   e   e  e   e   e   e   e  ee  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0545.png|ee           e    e     e     e  e  e   e   e  e   e    e   e   e  e  e  e ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1487.png|ie       e  e  e   e  e   e   e   e    e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1453.png|ge    e  e   e   e   e   e   e   e   e   e   e  e  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0542.png|ee          e  e   e  e  e   e  e  e   e      e     e  e   e  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0062.png|ee              e  e   e       e   e   e   e  e  e  e  e  e    e   e  e  e  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0683.png|ee      e  e  e  e    e  e  e  e   e   e  e   e   e    e   e  e     e  e  ee  ee  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1095.png|de       e   e  e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0836.png|de      e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0896.png|in      e    e     e   e   e   e   e   e    e   e   e   e   e   e   e   e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0778.png|ee      e  e   e  e   e   e   e   e   e   e   e   e   e   e   e  e   e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1194.png|ee  e   e     e  e   e  ee  e  e  e   e   e   e   e        e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1368.png|ee       e   e   e   e   e   e   e    e   e    e    e   e    e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0682.png|ee       e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0847.png|ge     e   e   e    e   e   e   e   e  e  e  e  ee  ee eee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1256.png|ind    e   e   e   e    e    e    e    e    e    e    e    e    e   e   e   e   e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0167.png|ge   e  e  e  e  e   e  e   e  e   e  e   e  e   e  e  e  e  e  e  e  ee  ee  ee ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0345.png|ee    e  e  e  e  e  e   e  e  e  e   e   e   e  e  e  e  e  e  e  e  e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0897.png|ee      e  e  e  e   e  e   e  e    e   e   e   e   e  e  e  e  e  e  e   e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0041.png|ee         e    e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0136.png|ee       e  e  e  e  e  e  e  e   e   e   e   e   e   e   e  e   e  e  e  ee  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1348.png|gee  e  e  e  ee  e  ee  ee  ee  e  e  ee  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0541.png|in             e     e    e       e      e      e      e   e   e   e   e   e   e   e  e  ee  e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1251.png|ee e  e  e  e  e  e  e  e  e  e  ee  ee  e  e  ee  ee  e  e   e  e  e  e  ee  ee ee ee eee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0632.png|ee          e   e   e   e   e    e   e   e    e   e   e   e   e   e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0065.png|de    e  e  e  e  ee   e  e  ee   e  e  ee   e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1169.png|de   e  e  e  e   e   e   e   e   e   e    e   e    e   e    e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0527.png|de    e  e   e  e   e  e   e   e  e   e   e  e  e   e  e  e  e  eee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0855.png|ee      e  e   e   e       e   e   e  e   e   e   e     e  e   e  ee  e  ee  ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0494.png|ee      e   e   e   e  e   e  e  e   e  e   e  ee   e   e   e   e  ee  ee  eee eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0673.png|ee     e  e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0270.png|ee     e  e  e  e  e  e  e   e  e   e   e   ee     e   e   e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0651.png|ee        e   e  e  e    e     e     e      e     e   e     e   e   e   e    e   e  e  e  e  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1410.png|ee      e  e  e   e  e  e  e   e  e   e   e   e   e   e   e   e   e  e  e  ee  e  e  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1374.png|de   e  e  e  e  e  e  e  e  e   e  e  e   e  e  e  e   e  e  e  e  e  e  ee  ee  ee  ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0380.png|de       e   e   e    e     e     e      e     e     e     e     e    e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0142.png|in           e      e      e        e       e       e      e     e     e    e   e   e   e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0015.png|ee       e   e  e   e   e   e   e   e   e   e   e   e   e   e   e  e   e  e  e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0571.png|ee     e   e  e   e   e    e    e     e     e    e    e   e  e   e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0785.png|ee     e  e  e     e  e  e  e  e  e  e  e  e   e  e  e  e   e   e  e  ee ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0906.png|de     e   e   e  e   e   e  e  e   e   e  e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0305.png|ie            e       e     e   e   e   e  e   e   e        e    e  e  e  e  ee ee  eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1480.png|ge     e  e   e  e   e  e   e   e   e   e   e  e  e  e  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0612.png|ee            e        e   e        e          e  e        e  e  e    ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0857.png|de     e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0686.png|ge    e  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0031.png|ee     e  e  e  e  e   e   e   e   e  e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1443.png|ee     e  e  e  e   e  e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1391.png|ee     e  e  e   e      e   e     e    e      e    e   e   e       e   e   e  e  ee  ee  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0386.png|ee       e  e   e  e  e   e  e   e   e   e   e   e   e   e  e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1499.png|de       e    e   e   e   e   e    e   e    e   e  e  e   e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1458.png|in      e  e  e   e   e   e   e   e   e    e   e   e   e   e    e   e   e    e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0255.png|in         e            e      e    e         e               e     e   e     e   e  e  e  e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0529.png|ee      e    e  e   e  e    e   e   e   e   e    e   e  ee  e  e  e  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1271.png|ee        e  e   e     e   e   e  e    e  e   e   e   e  e   e  e    e  e  e e e  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0915.png|in     e  e   e   e     e   e   e   e     e     e     e    e    e    e   e   e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0588.png|ee        e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1076.png|de           e   e    e   e    e    e    e    e    e    e    e   e   e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0385.png|in          e   e   e   e    e     e   e   e      e     e    e   e   e   e   e   e   e  ee   e  ee  ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0775.png|ie      e  e  e     e   e  e   e   e   e  e   e   e   e   e    e    e  e  e  e  e  ee  ee  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0603.png|ee  e  e  e  e  e  e  e  e  e  e   e   e   e  e  e  e  e  e   e  e  ee  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1049.png|ee      e   e   e  e   e   e  e    e    e   e   e   e    e   e   e   e  e   e  e  e  e  ee ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0757.png|ee             e   e  e  e  e   e   e   e   e      e   e   e  e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0644.png|ee          e   e   e  e  e  e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee  ee  eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0112.png|ge     e   e   e    e    e    e    e    e    e    e    e    e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0566.png|de       e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0676.png|ge     e  e   e  e  e  e   e   e   e   e  e  e  e  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1198.png|en      e  e    e  e   e  e   e  e   e  e   e    e  e   e    e  e   e  e  e  ee  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1340.png|ge    e  e  e  e    e  e  e   e   e   e  e  e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0414.png|ee       e  e   e   e     e   e   e   e  e   e   e   e  e   e  e  e  e  e  e  e ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1158.png|ee       e  e   e   e    e  e   e   e   e    e   e   e   e   e   e    e  e  e  e  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1036.png|ee         e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1255.png|de     e  e  e  e  e   e  e   e   e  e   e   e   e   e  e   e  e  e  e  ee  ee ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0561.png|ee  e  e  e  e  e  e  e  e   e  e  e  e  e  e  e  e   e  e  e  ee  ee  ee ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0858.png|ee            e    e  e  e  e  e   e   e    e   e     e    e    e  e  e ee  e ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0456.png|in      e   e   e     e     e      e      e      e     e     e     e    e   e   e   e  e  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1113.png|in        e  e     e    e         e       e    e   e     e    e    e      e     e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0702.png|ee      e   e     e   e  e   e         e   e  e    e  ee  e   e  e   ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0594.png|ee     e  e  e  e  e   e   e   e   e   e   e   e    e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1024.png|in    e  e  e  e   e   e   e  e  e  e  e   e   e    e  e   e   e  e   e  e  e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0090.png|de   e  e  e  e  e   e   e   e   e   e   e   e   e   e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0921.png|ee     e  e  e  e  e  e  e  e   e   e  e   e   e   e   e  e   e  ee  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0867.png|in    e  e       e     e   e     e      e   e   e  e  e    e   e   e   e   e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0075.png|ge    e    e  e  e  e   e  e  e  e   e  e  e  e    e  ee  ee  ee  ee eee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1209.png|in         e  e    e   e   e      e   e    e     e   e    e    e   e   e    e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0760.png|ee   e  e  e  e   e  e  e   e   e   e   e    e  e   e  e   e  e  e  e  e  e  ee  e  e ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1086.png|in         e  e    e   e   e   e  e  e   e   e    e    e   e   e   e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0317.png|ie            e   e   e   e   e   e   e     e    e   e   e    e   e   e   e  e  e  e  e  ee  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0011.png|ee    e  e  e  e   e   e   e     e   e    e   e   e  e   e  e  e  ee  ee ee eee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0316.png|de      e  e   e  e   e  e  e  e  e  e   e  e   e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0283.png|in                e                  e      e    e     e     e     e     e    e   e  e  ee  ee e e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0187.png|de     e   e  e   e   e   e   e  e  e  e  e   e   e  e  e  e  e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0864.png|ee          e   e  e  e  e  e  e  e   e  e   e      e  e  e  e  e  ee  ee ee eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0647.png|ee          e      e  e    e  e   e   e     e    e  e    e      e  e    e  e  e  e  ee  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1267.png|in     e  e  e  e  e  e  e  e  e   e  e   e   e   e   e   e   e  e   e  e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0333.png|in     e  e   e   e   e   e   e    e    e    e    e    e   e    e   e   e   e   e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1481.png|de      e  e  e    e   e   e   e   e  e  e   e  e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1175.png|ee           e  e   e   e  e    e   e    e  e   e   e  e  e   e  e  e  e ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0938.png|ee        e  e   e  e     e   e   e    e      e    e   e    e      e   e  e  e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0162.png|de      e  e  e  ee   e  ee  e   e  e    e   e  ee  eee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0652.png|ee                 e   e   e  e  e  e   e   e   e    e   ee   e  e  e  e  ee  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0133.png|de    e  e  e  e  e  e  e  e  e   e  e   e  e   e  e  e  e  e  ee  ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1422.png|ee         e   e   e   e  e   e   e   e   e   e   e     e   e     e  e  e   e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1168.png|ee       e  e  e    e      e  e  e  ee  e  e  e   e   e   e  e  ee   e  e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0361.png|ge     e    e   e    e    e        e  ee  e  e  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0469.png|ee       e  e   e   e     e    e   e   e    e   e      e     e    e   e   e  e  e  e  e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0377.png|de     e  e  e   e   e   e   e   e   e  e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0250.png|deN  e  e  e  e  e  e  e  e  e  e  e   e  e  e  e  e  e  e  ee  ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0113.png|ee    e  e  e  e  e  e  e  e    e   e  e  e  ee  e  ee  e  ee  ee   ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0554.png|en  e  e  e  e  e   e   e  e  e  e  e  e   e  e  e   e  e  e   e   e  ee  e ee ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1166.png|de        e    e    e    e    e     e    e    e     e    e    e    e    e   e   e  e  e  ee  ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0531.png|ee     e  e  e  e  e  e  e  e  e  e  e  e   e   e   e   e   e  e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0977.png|ie    e    e  e  e  e   e    e   e   e  e    e   e   e   e   e   e   e  e  e  e  ee  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0335.png|de    e  e   e  e  e  e  e   e   e  e  e  e  e   e  e  e  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0157.png|ee    e  e    e  e  e  e  e  e   e   e    e  e   e   e  e  e  ee  ee ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0426.png|in     e  e  e  e     e   e      de   e   e   e   e  e  e  e   e  e   e  e  e ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1313.png|end      e    e     e     e     e     e     e     e     e    e   e   e   e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1165.png|de             e     e    e    e    e    e    e    e    e    e    e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0519.png|in     e    e   e  e  e   e   e  e   e   e    e  e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0889.png|ee     e  e  e  e  e  e  e   e   e   e  e  e   e  e  e  e  e  ee    e  e  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0482.png|ind            e       e      e      e      e      e     e     e     e   e   e  e  e  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0110.png|in  e  e  e  e  e  e  e   e   e   e  e   e   e   e   e   e  e  e  e    e   e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0287.png|ee      e  e  e  e  e   e  e  e   e  e   e  ee   e  e  e   ee  e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0558.png|in      e      e   e     e   e   e   e  e   e  e  e  e   e   e  e   e  e  e  e  ee ee  e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1173.png|deN    e  e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0081.png|in        e   e     e   e   e    e   e   e     e   e   e    e   e   e   e   e  e  e   e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0862.png|in      e   e   e   e     e   e        de     e   e   e    e   e   e   e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0028.png|in        e  e    e    e      e   e       e   e   e   e   e     e       e   e    e    e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0502.png|in       e   e  e   e   e   e   e   e    e   e    e   e   e  e    e   e   e   e  e   e  e  e  e ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0827.png|de     e  e  e   e  e   e  e   e   e  e   e  e  e  e  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0171.png|de    e  e  e  e  e  e  e   e   e  e   e  ee  e  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0742.png|ee       e   e   e  e  e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee  e  ee ee e e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1282.png|ee         e   e     e    e  e   e   e   e   e     e   e   e  e   e  e  e   e  e ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1071.png|ee        e   e  e   e    e    e  e    e   e   e   e     e  e   e   e    e  e  e  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0107.png|ee       e  e  e   e  e  e   e   e  e  e   e  e   e  ee  e  e  ee  ee  ee  ee  e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0118.png|ee      e  e   e  e  e  e   e   e  e  e   e   e   e   e  e   e  e   e  e  e  ee  e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0033.png|ee     e  e  e  e   e  e  e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0665.png|in  e  e   e  e   e   e   e   e  e    e   e     e    e    e    e    e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0596.png|ee       e  e   e  e      e   e  e  e  e   e    e   e  e   e  e    e   e  ee  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1283.png|en             e     e    e  e   e   e   e   e     e         e  e    e   e  ee  e  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0654.png|de      e  e   e  e   e    e  e   e    e   e   e   e  e  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0834.png|in     e    e  e   e  e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1288.png|ee      e  e   e   e   e   e   e   e    e   e    e   e    e    e   e   e   e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0544.png|me         e   e    e   e   e   e      e   e   e     e   e  e  e  e   e  e  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1347.png|de      e   e  e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1177.png|ee      e      e    e  e   e   e   e  e   e   e    e    e   e   e   e  e  e  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0332.png|ge     e   e  e   e  e   e   e   e   e   e  e  e  ee  ee  ee  eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0933.png|ee          e    e    e    e    e    e    e    e    e    e    e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0026.png|ie  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  ee  e  e  e  e  e  e  e  ee  e  ee  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1317.png|ee      e    e  e  e        e   e   e  e   e      e   e  e  ee  e  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1183.png|ee             e    e    e   e    e    e   e    e    e    e   e   e   e   e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1275.png|ee           e  e  e   e  e   e  e   e    e   e    e   e   e   e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1155.png|ind          e      e   e       e   e   e   e  e   e   e     e      e    e   e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0672.png|de     e  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0727.png|win     e   e  e  e    e     e   e     e   e       e    e    e   e   e    e    e  e  e  e  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0518.png|in      e   e   e     e   e  e  e   e  e   e   e    e   e   e   e    e   e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0698.png|in      e   e   e       e    e         e      e      e      e     e    e    e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0696.png|de     e   e  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0677.png|ie     e  e  e  e  e   e   e   e  e   e    e     e   e   e   e   e  e   e  e  e  ee  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0433.png|ind       e   e  e    e   e     e   e    e   e  e    e   e   e   e   e   e  e  e  e ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0761.png|ee        e   e   e   e   e   e  e  e   e  e  e  e  e   e  e  e  e  e  e  e  ee  eee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0966.png|in    e      e     e   e   e   e   e   e   e     e   e   e   e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0927.png|ee       e  e   e  e   e  e  e  e   e   e  ee   e   e  e  e  ee  e  e  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0125.png|de     e  e  e   e   e   e   e   e   e   e   e     e   e  e  e  e  e  e   e  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0170.png|ind       e    e   e  e  e  e  e   e  e   e    e   e   e   e   e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0371.png|in      e   e   e   e   e    e     e     e     e    e    e    e    e    e   e   e   e  e  e  e  ee  ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0101.png|ge    e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0653.png|ee        e      e  e  e  e  e  e   e  e     e  e    e      e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1398.png|de     e  e  e  e  e  e  e  e  e   e  e   e   e   e   e   e  e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0179.png|ee ee  e  ee  e  e  e  e  e  e  e  ee  e  ee  e   e  e   e  e  e  ee  ee  ee  ee ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1053.png|de       e   e  e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0687.png|de        e   e    e   e      e   e     e   e   e   e   e   e     e   e    e   e  ee  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0939.png|in     e   e  e   e    e   e   e    e   e   e   e   e  e   e   e    e   e  e   e  e  e  e  e  ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0395.png|de     e  e  e  e  e  e   e   e   e  e   e  e  e   e   e   e  ee  ee ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0815.png|de        e   e   e  e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1116.png|de     e     e   e   e   e   e   e  e     e   e  e  e  e  ee  eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1430.png|win      e   e    e     e      e       e       e      e      e     e    e    e   e   e   e  e  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0799.png|ee  e  e  e  e  e  e  e  e  e  e  e   e  e  e    e    e  e  ee  e  e  e  ee  ee  ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0265.png|ee     e   e   e   e  e  e  e   e  e  e   e  e  e  e   e  ee  e  ee  eeeeee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0817.png|ee      e  e  e   e  e  e  e  ee  e  e   e  e   e   e   e   e   e   e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1042.png|ee  e  e  e   e   e   e    e    e  e   e  e  e   e   e   e   e    e  e   ee  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0440.png|ee      e           e   e  e  e  e   e   e  e  e   e        e  e  ee ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1427.png|ee     e   e   e   e   e  e   e  e   e   e  e  ee   e   e   e  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1373.png|ie  e  e  e  e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1425.png|en      e    e    e   e  e    e    e   e     e     e     e  e  e  e  e  e  ee ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0212.png|ge     e   e  e  e  e  e   e   e   e  e   e  e  e  e  e  ee  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1134.png|deN    e  e  e  e   e   e  e   e   e   e   e   e   e   e   e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0262.png|ee    e  e  e  e  e  e  e  e   e   e  e  ee   e  e   e  ee  e  e  e ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0570.png|ee e  e  e  e  ee   e  e  ee  e   e   e   e   e   e  e  e   e  e  ee  e   e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0481.png|ee     e  e    e   e  e   e  e  e  e  e   e   e  e       e   e  e  e  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1279.png|ge    e  e  e  e   e    e  e   e   e  e  e  e  e    e   e  e  ee  eeeee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0384.png|de      e  e  e  e  e  e   e  e   e   e   e   e   e   e   e  e  e  e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0768.png|ie        e   e  e   e  e  e   e   e   e   e  e   e   e   e   e   e    e   e   e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0047.png|ee     e   e  e  e   e   e  e  e   e   ee   e   e   e  e   e   e  e  ee  e  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0319.png|ee         e   e   e   e    e    e    e   e    e    e   e    e   e   e   e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0232.png|ee       e   e   e   e  e   e   e   e  e  e   e     e   e   e  e   e  e  e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1249.png|ee         e  e  e e  e  e  e  e  e  e  e   e   e    e     e  e  e  e  e ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0346.png|end          e  e   e   e   e    e      e     e   e     e   e   e  e  e  e   e  e  e ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0238.png|de      e   e   e  e   e  e   e   e   e   e   e   e  e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0236.png|in      e   e   e  e  e     e  e   e       e      e   e    e   e   e   e   e  e   e  e   e  e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1476.png|ee       e  e   e  e   e  e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1268.png|de    e  e  e  e  e   e   e  e   e   e  e   e   e  e   e  e  e  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0443.png|ee     e  e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0962.png|in         e  e   e    e   e   e    e   e   e   e   e   e      e   e   e   e   e   ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0969.png|ee     e  e  e  e  e  e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1028.png|ie         e    e   e   e    e     e   e   e   e   e   e   e   e  e  e   e  e ee ee  e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0520.png|dee  e   e  e  e  e  e   ee  e   e  ee   e  e   e  e  e  e  ee  ee  ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1385.png|in     e     e   e  e   e    e   e  e  e  e   e    e   e   e    e   e   e   e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1068.png|ee      e   e  e   e   e   e   e   e    e    e   e   e   e   e   e  e  e  e  ee  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1225.png|win   e  e   e  e    e   e     e   e    e   e    e     e   e    e   e  e   ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0019.png|ee      e  e  e  e  e   e  e  e   e  e  e  e  e   e  e  e   e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1301.png|de      e  e  e  e  e   e  e   e   e   e   e   e   e  e  e  e  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0628.png|de      e   e   e   e   e    e    e    e    e    e    e    e   e   e   e   e   e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0664.png|ge  e  e  ee  e  e  e  e  e  ee  ee  e  e  e  e  e  ee  ee  ee  e  ee  eee eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0331.png|ge    e  e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1342.png|ii        e   e   e  e   e   e  e      e    e      e   e   e    e   e   e   e  e    e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1102.png|ge  e  e  e  e  e  e   e  e  e   e  e   e  e   e   e  e   e  ee  e  ee  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0008.png|de    e  e  e  e  e  e  e  e  e  e   e  e  e  ee  ee  eee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1266.png|de      e   e   e   e   e   e      e  e  e   e   e   e   e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0233.png|ee      e   e   e  e  e  e  e  ee  e  e  ee   e  e    e  e  e  e  ee  ee eee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1098.png|ee     e  e   e  e   e  e  e  e  e  e  e  e  e  e      e   e  e  e  e  ee ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0085.png|ee     e     e  e   e  e  e  e  e  e  e  e  e   e  ee  e  e   e  e  e  e  ee  ee eeeee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0539.png|in     e   e   e   e    e     e      e      e     e     e     e    e    e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0173.png|ie      e  e   e   e  e  e   e   e   e   e   e   e   e   e   e   e   e  e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0201.png|ee  e  e  e  e   e   e   e  e  e  e  e   e  e  e  e  e   e  e   e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0177.png|ie          e      e    e    e   e  e   e    e  e   e   e     e   e   e  e  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1405.png|in  e  e  e  e  e   e   e   e   e    e  e   e   e   e    e   e   e    e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1157.png|de    e  e   e   e   e    e    e    e    e    e    e    e    e   e   e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1369.png|ee      e  e  e  e  e  e  e  ee  e  ee  e  e   e   e   e   e  e  e  ee  ee  ee ee eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0447.png|ee             e     e    e    e    e    e    e    e    e    e    e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1497.png|ee        e   e  e   e   e   e   e    e     e     e    e    e   e   e   e   e  e  ee  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0884.png|de      e   e   e   e   e   e   e   e    e   e    e   e    e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1371.png|de       e  e    e   e   e    e   e         e  e  e    e   e  e  e  e ee ee  e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0461.png|de      e  e   e  e   e  e   e     e  e  e  e  e   e  e  e  e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1160.png|de     e  e  e   e  e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1248.png|ee                  e   e   e   e   e     e   e        e   e   e   e   e     e  e  e  e  e  ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0543.png|in        e   e   e   e  e      e        e         e       e      e     e    e    e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0870.png|ee     e  e  e  e  e  e   e  e   e  e   e   e   e   e  e   e  e  e  e  e  e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1295.png|in         e     e   e        e        e   e    e     e   e        e     e   e  e  e  ee  ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0704.png|ge     e   e   e    e    e   e   e   e  e  e  e e e e e ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0540.png|ge  e  e  e  e  e  e  e  e   e  e   e  e   e  e  e  ee  ee  ee  eee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0156.png|ee          e     e     e      e     e     e     e     e     e    e    e   e   e  e  e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1447.png|ee           e             e        e               e   e   e    e       e     e  e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0308.png|de      e   e  e  e  ee  e  ee  e   e  e   e  e  e  ee  ee  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0982.png|de      e   e   e   e   e   e   e    e   e    e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0489.png|in       e   e   e   e   e    e   e   e   e   e     e   e   e   e   e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0877.png|end     e     e  e    e   e  e    e   e     e   e    e    e  e     e  e  e   e  e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0372.png|de    e  e   e  e  e  e   e   e  e  e   e   e  e  ee  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1418.png|ee  e   e     e   e   e  e  e  e   e  e  e   e  e   e  ee  e  e  e   e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0027.png|ie     e  e  e  e  e   e  e   e    e    e   e   e   e   e   e   e   e   e    e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0106.png|ee  e    e   e  e  e  e  e  ee  e  ee  e  e   e   e  e  ee  e  ee  e  ee  e  ee  eee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1161.png|ee     e  e   e   e    e  e    e   e   e   e    e   e   e   e  e    e  e   e  ee  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0029.png|ee        e   e   e   e   e  e   e  e  e  e     e   e    e   e   e  e   e  e  e  ee  ee  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0363.png|ge   e  ee  e  e  ee  e  e  e  e  e  e  e  e  ee  e  ee  e  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1465.png|de        de    e          de   e  dee       dee  ee  e 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0649.png|end         e     e   e  e   e   e   e   e     e    e    e    e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0293.png|de    e  e  e  e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1323.png|ee      e   e   e   e  e   e  e  e   e   e   e   e   e   e   e  e  e  ee  ee  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0872.png|ee     e  e  e  e  e  e  e   e  e   e   e   e  e   e   e  e   e   e  e  e  e  e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0154.png|ee      e   e    e   e   e   e     e   e   e   e   e   e   e   e   e   e   e  ee  ee ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0410.png|ee    e   e  e  e  e  e  e   e   e   e   e  e    e   e  e   e  e   e   e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0976.png|ee     e    e   e    e  e  e  ee   e  e   e   e   e   e  e  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0359.png|ee    e  e    e  e  e  e  e   e   e   e    e   e  e   e  e   e   e  ee  ee ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0024.png|ee      e         e  e  e  e        e  e  e  e   e     e  e  e  e  e     e  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0748.png|ee      e     e   e   e   e   e   e   e   e   e    e   e    e   e  e   e    e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0802.png|in      e  e   e   e        e    e   e    e      e   e   e     e     e     e   e   e  e  e   e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0492.png|ee      e     e   e   e           e      e    e   e          e    e   e   e  e   e  e  ee  ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0998.png|ee  e  e  e  e   e   e  e   e   e   e     e   e    e   e   e  e   e   e  e  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0483.png|ee  e  e  e  ee  e  e  e  e  e  e   e   e  e  e   e   e  ee  ee  e  ee ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0147.png|de          e     de  e    e  e  e   e    e  e     e  e  e  e  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0472.png|ee      e   e  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1242.png|de     e  e  e  e  e   e   e   e   e  e  e  e  e   e  e  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0466.png|in  e  e  e  e   e   e  e   e   e   e    e   e   e   e    e   e   e   e  e  e  e  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1444.png|ee         e    e     e   e  e   e       e   e  e  e   e   e  e   e  e  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0103.png|ge  e  e  ee  e  e  e  e  e  e  e  e  e  e  ee   e  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1218.png|ee      e   e   e   e   e   e   e   e   e    e    e   e    e  e   e   e   e  ee  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1182.png|ie        e  e   e   e    e     e  e   e  e  e  e   e  e   e   e    e  e   e  ee  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0650.png|ee     e  e  e  e  e      e   e  e   e   e     e   e  e  e  e  e     e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0394.png|ee             e    e   de      e     de   ee  e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1345.png|ee            e   e  e  e  e  e  e  e   e   e  e   e   e   e   e  e  e  e  e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1187.png|ee      e   e   e    e     e     e     e     e     e    e    e    e   e   e  e  e  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0629.png|ee       e      e  e   e  e  e  e  e  e    e  e    e  e  ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0765.png|in     e  e  e   e   e   e    e     e     e     e     e     e    e    e    e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0357.png|win     e  e   e   e   e    e    e     e     e     e    e    e    e    e   e   e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0752.png|de     e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0507.png|in                   e     e           e       e    e    e    e    e    e   e   e  e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0251.png|de   e  e  e  ee  e  e  e   e   e  e  e  e  e  ee  e  e  e  e   e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0796.png|ee        e     e     e     e     e     e     e     e     e    e    e   e   e   e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0256.png|in  e   e  e   e  e   e   e    e      e     e     e     e   e   e     e    e     e  e  e  e  ee  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0532.png|we          e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1326.png|ee         e   e   e   e   e    e   e   e    e   e    e   e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0749.png|ee     e  e     e   e    e    e   e  e  e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1082.png|ee        e   e   e   e   e   e   e   e   e   e   e    e     e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0186.png|ind     e     e    e  e  e  e  e  e  e   e  e   e    e    e     e    e  ee  ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0274.png|ee       e  e   e   e   e   e   e   e   e   e   e   e   e   e  e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0551.png|ee     e   e  e   e   e  e       e   e   e   e    e   e   e   e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0798.png|ind     e    e   e      e    e   de    e   e    e  e  e   e   e   e   e   e  e  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1077.png|ee     e   e   e   e   e    e    e    e    e    e    e    e   e    e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0995.png|ee          e   e  e   e   e   e     e  e    e   e   e   e   e   e  e  e  e  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1470.png|ee      e  e     e  e   e  e  e  e  e  e   e   e  e  ee  ee   e  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0159.png|ee        e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1445.png|ee     e  e  e  e  e  e  e  e   e   e  e    e   e   e   e   e   e   e   e  e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1181.png|ee      e   e   e  e   e   e   e   e     e     e   e   e   e   e   e   e   e  e  e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0780.png|ge   e  e  e  e  e   e  e  e   e   e  e  e   e  e  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0145.png|ee  e  e     e  e   e   e  e   e  e  e  e  e  e  e      e  e  e  ee  e ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0063.png|de     e  e   e     e  e  e dee      e  e ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1001.png|in     e   e   e  e  e   e  e   e  e   e   e  e    e   e   e   e   e  e   e  e  ee  ee  ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1073.png|ge     e   e   e   e    e    e   e   e  e  e  e  ee  ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0245.png|ee      e   e   e   e    e    e    e    e     e    e    e    e    e    e   e   e   e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0606.png|ee        e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0279.png|de         e     e   e    e      e   e   e    e   e     e      e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1056.png|de     e  e  e  e  e  e  e   e  e  e  ee  e  ee  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0339.png|ee        e   e   e   e   e   e   e   e   e    e   e   e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1296.png|ee       e   e  e  e  e   e   e  e   e    e   e   e   e   e   e   e  e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1236.png|ee      e   e    e    e    e    e    e    e    e    e   e    e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1404.png|de    e  e   e   e   e   e   e   e   e   e   e   e   e   e   e  ee  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0732.png|ee      e  e    e   e  e  e   e   e   e   e   e  e   e  e   e   e  e  e  ee   ee  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0109.png|de    e   e  e   e   e   e  e   e   e   e   e  e   e  e   e   e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0901.png|in  e      e    e   e  e  e   e  e  e  e   e   e   e   e   e   e  e  e  ee  ee eeee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1325.png|ee     e  e   e  e   e   e   e  e   e   e   e     e   e   e   e  e   e  ee  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0876.png|ie     e  e  e  e  e  e  e   e  e  e  e  e  e  e  e  e  e   e  e  e  e  e  e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1210.png|ee           e     e     e  e    e   e   e   e   e   e   e    e  e  e  e  e  e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1037.png|in  e  e  e  e  e  e  e   e  e  e    e   e    e    e  e  e   e   e  e   e   e  e  e   e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1212.png|de    e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1178.png|ie       e  e     e   e  e    e   e  e  e  e  e   e   e   e  e  e  e  e  e  e ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0315.png|end     e  e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1291.png|ee       e   e   e   e   e   e   e   e    e   e    e    e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0581.png|ee               e  e    e  e   e   e  e     e   e    e   e   e   e   e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1119.png|ee     e  e   e   e     e   e   e   e   e    e   e     e   e     e   e  e  e  ee  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1070.png|de     e  e  e   e  e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1043.png|ee               e     e      e   e     de    e   e   e   e   e   e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0499.png|ee      e     e    e   e   e  e  ee   e   e   e    e   e   e     e  e   e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0852.png|ee  e  e  e  e  e     e    e   e  e  e  e   e  e    e   e  e  e  ee   e   ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1109.png|ee            e      e   e   e   e  e   e   e  e    e   e    e  e   e  e  e  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0555.png|de      e   e   e   e    e   e    e   e    e   e    e    e   e    e   e   e   e  e  e  ee  ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1130.png|in  e  e  e  e   e  e   e   e  e  e    e   e  e     e   e   e   e   e   e  e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1328.png|in      e     e    e   e   e   e   e   e     e   e  e    e  e    e   e   e  e  e  e  e  e  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0388.png|win      e      e   e   e   e   e   e   e     e     e   e   e   e   e   e   e   e   e  e  ee  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1270.png|ee      e  e  e   e    e   e   e  e   e   e   e   e   e      e   e  e  e  e  e  ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0863.png|ee        e   e    e     e     e     e     e    e    e    e    e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1110.png|ee      e   e  e   e     e  e  e  e   e  e   e    e    e   e  e  e   e  ee  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0920.png|in       e          e  e  e   e  e   e  e     e   e   e        e  e  ee  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1162.png|ge   e  e  e  e  e  e   e   e  e  e  e  e  e  e  e   e  e  e  ee  ee eee eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1224.png|de    e  e  e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1272.png|ie        e   e     e      e   e     e   e   e   e  e    e   e     e   e    e  e  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0725.png|in      e  e   e   e   e  e   e   e   e  e    e   e   e   e   e   e  e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1468.png|ee      e  e  e   e  e   e    e   e    e   e   e   e    e  e     e   e   e     e  e  e  ee  e  ee ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0623.png|ee        e   e   e   e   e    e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1479.png|in       e      e   e     e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0703.png|ind    e  e   e      e   e  e   e   e  e     e   e   e  e   e   e   e   e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0263.png|ee     e  e  e   e   e  e    e   e      e   e   e   e   e   e   e   e   e   e  e  e  ee  ee eee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0805.png|in       e     e   e   e  e   e  e  e    e    e   e   e     e   e   e  e  e  ee  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0925.png|in          e   e     e    e   e   e   e      e     e     e     e    e    e   e   e   e   e  e  e  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1004.png|in             e   e  e   e   e   e  e      e     e   e    e    e    e   e   e   e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0051.png|ie     e  e  e   e  e   e      e     e   e   e   e  e  e   e  e  e  e  e     e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0622.png|ee         e   e   e    e   e   e   e   e      e     e  ee   e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1019.png|ee  e  e  e  e  e  e  e  e  e  e   e   e   ee  e  e  e  e   e  e  e  e  e  e  e  ee eeeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0731.png|dee  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  ee  ee  ee ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0197.png|ee     e       e    e    e  e  e  e  e  e  e  e    e   e  e  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0093.png|ee     e  e  e  e   e   e  e    e   e   e    e   e  e   e    e   e  e   e  e   e  e  ee ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0547.png|ie     e  e  e   e   e    e    e    e    e   e     e    e    e   e     e   e   e  e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1401.png|ee     e  e    e  e  e  e  e  e  e  e  e   ee   e  e  e    e   e  e  e  e  e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0058.png|de     e  e  e  e  e  e  e   e  e   e  e   e  e   e  e   e  e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0716.png|ee            e   e   e    e   e    e   e    e   e   e    e   e   e   e   e   e   e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1101.png|ee         e   e   e   e   e   e   e   e   e    e   e   e   e   e   e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0108.png|de      e  e  e  e   e   e   e  e  e   e   e   e    e  e   e   e  e  e  ee  ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0362.png|in     e    e  e   e   e   e   e  e   e   e    e   e   e   e     e   e   e  e  e  e  ee  e e e eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0050.png|ee       e   e   e    e    e    e    e    e    e    e    e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0231.png|ee  e  e  e  e  e  e  e  e  e  ee   e  e   e  e  e   e   e  ee  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0579.png|ge    e  e    e  e  e  e  e  e  e  e   e   e   e  e  e  ee  ee ee ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0945.png|in        e     e  e  e    e   e   e    e  e  e   e    e  e  e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0504.png|ee          e  e   e   e  e   e  e   e   e  e   e   e    e  e   e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0645.png|in     e  e   e  e  e  e  e    e  e    e  dee  e   e     e   e  e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0367.png|ee        e     e   e  e   e      e   e  e   e  e    e   e  e  e  e  e  e ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0771.png|ge  e  e  e  e  e   e  e   e   e   e   e  e   e  e  e  ee  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0285.png|ie       e   e  e  e  e  e   e    e    e   e   e    e   e  e   e   e    e   e   e  e  ee  e  ee  eee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0155.png|ee  e  e  e  e  e   e  e  e  e  e  e   e   e  e  e  e   e   e   e   e  ee  e  ee   e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1478.png|ee    e  e  e    e  e   e  e  e  e   e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1124.png|ee            e  e  e  e  e  e   e    de     e  e   e  e   e  e  e  ee  ee ee ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1227.png|ee       e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0965.png|ee           e      e   e      e    e    e     e    e    e    e   e    e   e   e   e  e  ee  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1231.png|ee                e   e  e  e  e   e  e   e   e      e      e   e  e  e  e  e  ee ee  eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0100.png|ee      e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0590.png|ee        e  e  e  e  e  e  e  e  e  e  e  e  e  e   e  e   e  e  e  ee  e  ee  ee ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0445.png|ee     e  e  e  e  e   e  e  e   e    e   e   e  e   e   e   e   e  e   e   e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0510.png|ee    e  e  e  e  e  e  e   e   e  e  e  e   e   e  e  e  e   e  e  e  ee  ee  ee ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0300.png|ee          e  e  e   e  e   e   e  e   e   e   e   e   e   e   e   e   e   e  e  ee  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1300.png|de    e  e  e  e  e  e  e  e   e  e   e   e   e   e   e  e   e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0425.png|in          e   e   e   e   e   e   e    e     e     e    e    e    e   e   e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0073.png|ie      e   e   e   e   e   e    e    e   e   e  e   e   e     e   e  e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0625.png|de     e    e   e  e  e   e   e   e   e   e   e   e   e   e  e  ee  e  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0068.png|in       e  e   e  e      e   e     e   e      e   e   e    e   e     e   e   e   e  e   e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0016.png|ge   e  e  e  e  e  e  e  e   e   e   e   e  ee  e   e  ee  ee  ee eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1202.png|ind        e  e   e  e   e   e   e   e   e   e      e     e   e   e  e  e  e  e  ee  ee  eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1141.png|ee       e  e  e  e           e  e   e  e   e  e   e   e  e  e   e  e   e  e ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0438.png|de   e  e  e  e   e  e   e   e   e   e   e  e   e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0639.png|ge  e   e   e   e   e   e   e   e   e    e   e    e   e   e   e   e  ee  e  ee  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0891.png|in  e  e  e  e   e  e  e   e  e   e  e   e   e   e   e   e   e  e   e  e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1035.png|in        e   e   e     e     e   e   e          e    e   e   e    e   e   e  e  e  e  e  ee  e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0080.png|ind        e  e   e  e  e     e     e   e   e     e   e   e   e   e    e   e   e  e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1052.png|ee  e  e  e   e     e   e  e  e   e   e   e     e    e        e    e  e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0584.png|ee   e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  ee  e  ee  ee eee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0617.png|ee       e  e    e       e   e  e  e   e  e  e  e    e   e   e  e   e  e   e  ee ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0390.png|ee          e     e     e     e    e     e    e     e    e    e   e   e  e  e  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0972.png|ee  e   e  e  e  e  e  e  e  e  e  e  e  e  e  e  ee   e  e   e   e  e  ee  ee ee eeeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1100.png|ee  e  e   e   e   e  e  e  e  e  e  e  e  e    e  e    e   e   e  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1154.png|ee    e  e  e   e   e   e   e  e  e  e  e  e  e   e   e    e   e  e  e  ee  ee eee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0936.png|ee             e  e  e  e   e  e   e       e      e  e  e  e  e  e ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1081.png|in        e   e    e     e  e   e    e    e   e  e   e   e   e    e  e  e    e   e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1353.png|ee   e  e  e  e  e    e  e  e  e  e   e    e   e  e  e  e    e  e   e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0169.png|de    e  e  e   e   e   e   e   e   e   e   e   e    e   e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1007.png|in           e   e   e   e         e     e     e    e   e   e   e       e   e  e  e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1058.png|ee           e     e  e   e   e      e   e   e  e   e  e   e   e  e   e  e  e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0905.png|ee                e  e  e  e  e   e   e  ee   e  e     e    e  e  e  e  ee  e  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1143.png|de    e  e  e   e   e   e   e   e   e    e   e   e    e   e   e   e   e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1136.png|ee       e  e   e        e  e  e   e  e          e   e  e   e  e   e        e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1396.png|ee   e  e  e  e  e  e  e  e  e   e   e    e   e   e   e   e   e   e   e  e  e  e  e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1448.png|ee       e    e  e   e  e  e   e  e   e   e   e   e   e   e   e   e   e  e  e  ee  e ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1170.png|ee             e    e   e   e   e   e   e     e   e   e    e   e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0321.png|we      e   e  e  e   e    e    e     e     e     e     e     e    e    e   e   e   e  e  ee  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0781.png|de      e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0956.png|in       e   e  e   e  e  e   e  e  e    e   e   e  e    e   e   e  e   e  e  e  e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0850.png|in  e      e   e  e  e  e  e   e    e   e   e   e   e   e   e  e   e  e   e    e   e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0931.png|ee                  e   e    e   e    e        e         e    e  e  e  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0368.png|ee            e  e       e  e  e  e  e   e   e    e   e   e  e  e   e   e  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1382.png|de    e  e  e  e  e  e  e   e  e  e   e  e  e  e   e   ee   e  e   e  e  ee  ee  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0163.png|de       e  e   e  e   e    e   e    e   e   e  e   e   e   e    e   e    e   e  e  ee   ee  ee  ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0355.png|de          e   e   e   e   e   e   e    e    e    e    e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0983.png|de    e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  ee  ee  ee ee eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0350.png|ind       e       e     e   e   e  e  e  e   e     e    e    e     e   e  e  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0706.png|de   e  e  e  e  e   e   e  e  e  e  e  ee  e  e  ee   e  e  ee ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1232.png|in         e  e   e      e     e  e  e    e   e   e   e      e    e   e  e   e  e  ee ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1172.png|ee     e  e  e  e  e  e     e   e  e  e   e   e   e   e  e  e  e  e   e  ee  ee ee  e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0485.png|ee              e  e   e    e     e      e   e     e      e  e   e  e  e  e  e  ee  e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0340.png|ind   e      e  e  e    e  e   e  e   e  e  e  e     e  e   e    e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0631.png|win     e    e  e   e    e   e   e   e    e    e   e    e   e    e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0797.png|ee     e   e  e  e   e   e  e    e   e   ee   e   e   e   e   e  e  e    e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0559.png|de        e   e    e    e    e     e     e     e    e     e    e   e   e  e   e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0140.png|ee  e  e  e  e  e   e  e  e  e  e  e  e  e   e  e  e   e  e  e  e  e  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0564.png|dee     e   e  e   e  e  e  e     e   e  e  e  ee  e  ee  eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0314.png|ee  e  e     e  e   e  e  e  e  e   e  e    e   e     e  e  e  e e  ee ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1045.png|ie     e  e   e     e   e   e   e    e    ee   e   e   e   e    e   e  e  e   e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0259.png|e d                e   e   e   e   e     e   e   e     e     e     e  e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1069.png|de   e  e  e  e   e  e   e   e   e   e   e   e  e   e   e  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1370.png|ind      e    e      e   e     e   e     e     e   e  e    e     e   e   e   e  e  e  e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1029.png|ee             e   e     e    e    e    e   e    e    e    e   e    e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0970.png|de       e   e   e   e   e   e   e   e   e   e   e   e    e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1491.png|in  e  e  e   e  e  e  e  e   e   e   e   e    e   e    e   e   e  e  e   e   ee   e  ee  ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0842.png|in      e   e   e  e  e   e  e  e   e   e   e  e    e   e  e   e  e  e   e   e  ee  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0241.png|win     e  e  e  e  e    e   e   e   e   e   e    e   e   e   e   e   e   e   e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0091.png|ind       e   e         e    e   e   e   e   e   e   e   e      e     e  e  e  ee  eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1314.png|ie        e     e     e    e   e    e       e     e     e     e    e    e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0421.png|ee     e      e     e  e  e  ee  e  e   e   e   e   e  ee  e  ee  e  ee  e  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0511.png|min       e     e     e      e  e   e  e   e   e    e    e  e   e  e   e  e   e  e   e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0822.png|de    e  e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1146.png|in         e     e      e                   e            e       e      e     e    e   e   e  e  e  e  ee  ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1190.png|ee  e  e  e  e     e   e  e  e  e   e    de   e  e  e   e   e   e   e  ee eee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0158.png|in          e   e  e   e  e  e   e  e   e      e   e     e   e  e  e  e  ee  e  ee ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1067.png|ee      e  e  e   e  e  e  e  e   e  e   e   e   e  e  e  e  e  e  e  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1030.png|in     e   e  e     e    e   e   e  e  e  e  e  e   e  e   e    e  e  e   e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0743.png|in         e   e  e  e  e   e   e  e  e  e     e   e  e   e   e   e   e   e  e  e  e  e  e  e  ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1213.png|de    e   e  e   e   e   e     e   e   e   e  e  e  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0252.png|ee               e       e        e   e     e    e       e   e     e   e   e  e  e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0636.png|ge      e   e   e  e   e   e   e   e   e   e   e  e  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0115.png|ge    e  e  e  e  e  e   e  e  e   e  e  e   e  e  e   e   e  e  e  e  ee  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1047.png|ee      e  e  e  e   e   e   e   e   e   e   e  e   e  e   e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1493.png|ie e  e  e   e  e  e  e  e   e   e  e   e   e   e   e   e  e    e  e  e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1449.png|de      e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0381.png|dee    e  e  e  e  e  e   e  e  ee   e  e  ee  ee  ee  eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0572.png|ee         e    e     e    e   e   e  e   e   e  e   e   e   e   e  e   e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1412.png|de    e  e   e   e   e   e    e   e   e   e    e   e  e   e   e  e  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0079.png|ee      e  e  e     e    e    e   e   e   e  e   e  e     e   e    e   e  e  e  ee  eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0018.png|ee             e  e     e  e   e    e   e   e   e    e   e    e  e    e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0471.png|ee  e  e  e  e   e   e  e  e   e   e  e     e   e  e  e   e  e  e  e  e  e  eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1501.png|de   e  e  e  e   e   e   e   e   e  e   e   e  e  e  e  e  e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0695.png|ge    e  e   e  e   e   e  e   e  e   e  e   e   e  e  e  e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0325.png|in  e  e  e  e  e  e  e  e  e   e  e   e   e   e  e   e   e  e  e  e  ee  e  ee ee ee 
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0337.png|ee            e   e       e   e  e     e     e   e    e   e   e     e   e  e   e   e  ee ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0334.png|in  e   e  e  e  e   e   e   e   e     e    e   e   e    e    e    e   e     e  e  e  e  ee  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0766.png|in      e   e   e   e   e    e   e    e   e    e   e   e    e   e   e   e   e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0967.png|win     e  e   e    e   e   e    e    e     e    e    e    e   e    e   e   e   e  e  e  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1093.png|ee    e    e  e  e  e   e   e   e   e    e   e   e   e   e  e   e   e   e  e  e  e  ee ee  eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0455.png|deN  ee  e  e  e  ee  e  ee  e  ee  e  ee  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0767.png|en            e      e   e   e       e     e       e  e   e     e    e   e   e  e  e ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1339.png|ind    e     e   e    e   e   e   e   e    e   e     e   e   e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0880.png|ee           e   e   e   e   e  e   e  e   e  e   e  e  e   e   e  e  e  e  ee  ee  ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1290.png|ind     e     e  e  e  e    e   e   e    e    e   e    e   e  e   e   e   e  e  e  e  e ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1387.png|ee         e    e    e     e    e     e    e     e     e    e    e   e   e   e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0987.png|ee     e   e   e   e   e   e   e  e  e   e  e  e  e  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1343.png|ee       e   e   e  e  e   e   e  e   e   e   e    e   e   e   e   e  e  e   e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0831.png|ee    e  e  e  e  e  e  e  e  e  e   e  e   e  e  e  e   e  e  e  e  e  e  e  e  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0512.png|in      e  e  e  e  e  e  e  e  e  e  e  e     e      e  e  e  ee  e ee ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1336.png|dee    e  e  e   e  e  e  e  e  e  e  ee   e  e  e   e  e  e  ee  ee  ee eee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1269.png|ee  e   e  e  e  e  e  e  e   e   e  e   e  e   e   e   e  e   e  e   ee  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0659.png|ee  e   e  e  e  e  e  e  e   e  e   e   e   e  e   ee   e   e  e   e  e  e  ee  ee  ee eee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1223.png|ee           e  e  e    e   e  e  e  e  e  e    e  e     e  e  e  e   e  e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0473.png|ee    e  e  e   e  e  e  e   e   e   e  e   e   e    e   e  e   e  e   e   ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0950.png|ge    e  e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1455.png|in             e       e      e     e      e    e   e    e    e    e   e   e   e   e   e  e  e  ee ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0844.png|ee     e  e       e    e  e  e  e   e  e   e    e   e  e     e   e  e  ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1012.png|ee         e   e  e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1054.png|in       e     e       e                e            e        e     e   e   e   e   e   e  ee  e  ee  ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1494.png|de     e  e  e   e   e   e   e  e  e   e  e  e    e   e   e  e  e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0188.png|in       e      e   e   e     e   e   e    e   e  e     e   e   e     e   e  e   e  e  ee ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0980.png|ee     e  e   e   e   e  e   e   e  e   e    e   e   e   e   e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0077.png|ee    e   e  e  e   e  e  e  e  ee  ee   e  ee      e  e  ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0717.png|ee  e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1386.png|de    e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  ee  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1273.png|ee      e   e   e   e   e    e   e   e   e   e   e  e  e   e  e   e  e  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1197.png|end     e   e  e   e   e   e   e   e    e   e    e    e    e   e   e   e   e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0479.png|ie       e  e  e  e   e   e   e   e   e  e  e  e    e  e   e  e  e   e  e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1171.png|ee           e   e   e   e   e   e   e   e   e   e   e  e  e    e  e   e  e  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0721.png|de    e  e  e   e   e   e   e   e   e   e    e   e   e   e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1359.png|win               e   e   e     e    e  e     e   e   e     e   e  e  e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0497.png|ee          e  e  e  e  e  e  e  e   e   e  e      e   e  e  e  e  ee  e ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1482.png|in    e  e  e  e  e  e   e  e  e   e  e   e   e    e   e  e    e  e   e   e  e  e  e  ee  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0253.png|ee  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  e  ee  e  ee  ee ee eeeee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0248.png|in  e    e  e  e  e  e   e   e   e   e  e     e   e   e   e   e  e   e   e   e  e  e  e   e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0151.png|de     e    e  e   e  e  e  e  e  e  e  e  e  e     e   e   e   e  e  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0358.png|ee        e   e  e      e    e   e  e  e  e      e   e  e  e  ee   e  e  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0424.png|ee         e  e   e   e      e   e   e  e    e    e   e   e   e    e   e   e   e  e  ee  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0952.png|ee        e  e      e     e  e   e   e   e  e   e   e  e  e  e  e   e   e   e ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0411.png|ee    e  e  e   e  e  e  e  e   e  e  e  e   e  e  e  ee   e  e  e  ee  e  eeeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0298.png|in         e   e   e   e   e   e   e    e   e   e    e    e    e    e    e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1376.png|ii      e  e  e   e   e   e   e   e    e   e       e    e    e     e   e   e   e   e  e  e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0326.png|ee  e  e  e  e  e  e  e  e  e  e  e  ee   e  e   e  e  e  e  e   e  e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1433.png|ie       e  e   e     e   e   e   e   e     e   e   e  e   e     e   e   e  e  e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1108.png|in     e   e  e   e  e   e   e   e   e   e   e      e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0595.png|de      e  e  e  e  e   e  e   e  e   e   e   e  e  e  e  e  ee  ee ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0941.png|ee          e     e  e  e   e  e  e   e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0878.png|in  e   e  e  e  e   e   e   e   e   e   e   e   e   e   e   e   e   e   e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0826.png|de          e   e   e   e    e    e   e    e    e   e    e    e   e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1452.png|de     e   e   e   e   e   e    e   e    e    e   e   e   e  ee  ee  ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0498.png|ee     e  e  e  e   e   e  e     e    e   e   e  e  e   e   e  e   e   e   e  e  ee  ee eee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0486.png|de        e    e   e     e   e     e     e    e      e   e     e  e   e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1467.png|end       e   e   e   e    e    e    e    e    e    e    e    e   e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0180.png|in       e  e  e   e   e     e   e  e   e   e   e    e   e   e   e   e   e   e  e  e  e e ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0434.png|ee        e   e   e        e  e    e   e   e   e   e   e   e     e  e   e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1492.png|ee  e  e  e  e  e   e  e  e  e  e  e  e  e   e    e  e  e  e   e   e  e  ee  ee ee eeee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0833.png|de         e  e  e   e    e   e  e  e   e  e    e  e   e   e    e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1033.png|in        e       e   e       e          e    e   e   e   e    e   e  e    e   e  e  e  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0740.png|de   e  e  ee   e  e   e  e    ee     ee    e   e   ee  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0235.png|ee  e      e   e  e  e  e  e  e  ee  e  e  ee  e   e    e  e  e  ee  ee  ee eee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1088.png|ie  e   e  e  e   e  e   e      e    e    e   e       e    e    e   e     e   e   e  e  ee  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0843.png|ee         e   e   e   e   e   e   e   e   e    e   e    e   e   e   e   e  e  e  ee  ee ee e
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0009.png|ee      e  e  e  e   e  e  e   e     de   e    e   e  e  e   e  e  ee  e ee e dee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1085.png|in      e  e   e     e  e  e  e  e   e  e  e    e   e   e   e     e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1486.png|de        e   e   e    e    e    e    e    e    e    e    e    e   e   e   e  e  e  e  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0899.png|ee  e  e  e   e  e  e  e  e   e  e  e  e   e   e   e   e   e   e  e  e  e  e  ee  ee ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1308.png|ee       e  e  e   e  e   e   e   e  e   e    e   e   e  e   e  e   e   e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_1230.png|in      e  e  e  e   e  e   e   e   e   e   e    e   e   e   e   e   e   e   e   e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0514.png|de    e  e  e   e   e   e   e   e   e   e   e   e    e   e   e   e   e  e  e  e  ee  ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0923.png|ee      e    e   e   e   e   e   e   e   e   e   e   e  e  e  e  e  ee  ee ee ee
+/data3fast/users/mbermudez/de_03/TFGDataset/img/test_T2_0126.png|ee  e  e  ee  e  ee  e  e  ee  e  e   e  e  e  ee  ee ee  ee  ee eee
