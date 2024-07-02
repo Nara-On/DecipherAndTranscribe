@@ -12,6 +12,10 @@ Marina Bermúdez Granados - <a href="https://github.com/nara-on">nara-on</a> <br
 <br />
 
 ### Version History
+* 5.2
+    * Final touches
+* 5.1
+    * Final results included
 * 5.0
     * New model updated
 * 4.4
