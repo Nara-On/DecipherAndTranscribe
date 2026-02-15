@@ -3,20 +3,22 @@
 
 <br >
 <div align="center">
-<h2 align="center">Bachelor's Thesis: Direct Decipherment and Transcription <br > of Historical Handwritten Ciphered Document Images</h2>
+<h3 align="center">Bachelor's Thesis: Direct Decipherment and Transcription <br > of Historical Handwritten Ciphered Document Images</h3>
 </div>
 
-### Abstract
+<br >
+
+## Abstract
 This bachelor’s thesis main topic will be the direct decipherment of historical documents by proposing a joint end-to-end approach. The usual techniques use a pipeline approach, causing a high level of dependance between tasks; the mistakes from the previous phases concatenate into the next one. However, there are not many studies on the possibility of directly deciphering these images.
 
 <br />
 
-### Author 
+## Author 
 Marina Bermúdez Granados - <a href="https://github.com/nara-on">nara-on</a> <br />
 
 <br />
 
-### Images 
+## Images 
 <div align="center">
    <h4>Sequence to Sequence Model with Attention</h4>
    <img src="https://github.com/Nara-On/DecipherAndTranscribe/blob/main/visuals/documentation/seq2seq-attention.png" width="700">
@@ -37,7 +39,7 @@ Marina Bermúdez Granados - <a href="https://github.com/nara-on">nara-on</a> <br
 <br />
 <br />
 
-### Version History
+## Version History
 * 5.2
     * Final touches
 * 5.1
