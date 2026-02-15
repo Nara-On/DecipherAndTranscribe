@@ -18,6 +18,29 @@ Marina Bermúdez Granados - <a href="https://github.com/nara-on">nara-on</a> <br
 
 <br />
 
+## Project Structure
+
+      .
+      ├── ciphers                        # Directory containing the cipher fonts for the image generation
+      └── code
+          ├── classes                    # Directory with the source code for the data augmentation and the ciphers
+          ├── models                     # Directory with the source code of the models and the experiments
+          └── trials                     # Directory with some testing code
+      └── databases
+          ├── copiale_alphabet           # Directory with images of the Copiale alphabet
+          ├── data                       # Directory with json files to organize training, testing, and validation
+          └── trials                     # Directory with some testing code
+      ├── texts                          # Directory containing different text files to generate images
+      └── visuals
+          ├── documentation              # Directory for the documentation of the project
+          └── plots                      
+              ├── pkl                    # Directory with visuals from the pkl files
+              ├── terminal               # Directory with visuals from the terminal
+              └── wandb                  # Directory with visuals from wandb
+          └── results_model_v2           # Directory for the different result logs of the second model
+
+<br />
+
 ## Images 
 <div align="center">
    <h4>Sequence to Sequence Model with Attention</h4>
