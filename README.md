@@ -16,6 +16,27 @@ Marina Bermúdez Granados - <a href="https://github.com/nara-on">nara-on</a> <br
 
 <br />
 
+### Images 
+<div align="center">
+   <h4>Sequence to Sequence Model with Attention</h4>
+   <img src="https://github.com/Nara-On/DecipherAndTranscribe/blob/main/visuals/documentation/seq2seq-attention.png" width="700">
+   <br />
+   <br />
+   <br />
+   
+   <h4>Qualitative Results for the Transcription Task</h4>
+   <img src="https://github.com/Nara-On/DecipherAndTranscribe/blob/main/visuals/documentation/qualitative_t.png" width="700">
+   <br />
+   <br />
+   <br />
+   
+   <h4>Qualitative Results for the Direct Decipherment Task</h4>
+   <img src="https://github.com/Nara-On/DecipherAndTranscribe/blob/main/visuals/documentation/qualitative_d.png" width="700">
+</div>
+
+<br />
+<br />
+
 ### Version History
 * 5.2
     * Final touches
